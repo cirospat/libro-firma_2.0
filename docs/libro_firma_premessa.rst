@@ -1,7 +1,7 @@
 
-.. _h2c946551c717045362a939453b2632:
+.. _h4253a849153a225d7045d5e581d7d:
 
-Premessa
+PREMESSA
 ########
 
 Il presente Documento vuole essere una breve guida per l’utente nella prima fase della complessa operazione di “\ |STYLE0|\ ” del Comune di Palermo, illustrando la procedura operativa da seguire per \ |STYLE1|\  tutti quei \ |STYLE2|\  indirizzati \ |STYLE3|\  ad un soggetto o ad un Ente esterni all’Amministrazione mediante la PROCEDURA DIGITALE LIBRO FIRMA.
