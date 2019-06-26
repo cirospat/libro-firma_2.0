@@ -20,7 +20,7 @@ Dopo il clic si presenterà la seguente \ |STYLE1|\ .
 
 Dopo aver inserito i dati corretti ed aver cliccato su “accedi” comparirà la seguente \ |STYLE2|\ .
 
-Poiché il documento pre-protocollato si trova nello stato di \ |STYLE3|\  sarà necessario cliccare su \ |STYLE4|\ .
+Poiché il documento si trova già nello stato di \ |STYLE3|\  sarà necessario cliccare su \ |STYLE4|\ .
 
 
 |REPLACE3|
