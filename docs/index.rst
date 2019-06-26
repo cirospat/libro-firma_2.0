@@ -1,8 +1,8 @@
 
-.. _h22352f6c7391e5c331850161f272162:
+.. _h7f6f26382110114b547f58632403124:
 
-Manuale d’uso dell'applicativo Libro Firma, versione 2.0
-########################################################
+Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0
+################################################################
 
 
 |REPLACE1|
@@ -16,7 +16,7 @@ Il presente Documento vuole essere una breve guida per l’utente nella prima fa
 
 Questa è la versione 2.0  del manuale d’uso e segue la prima versione (rilasciata nel marzo 2018) che è disponibile a questo \ |LINK2|\ .
 
-La differenza tra la prima versione e la 2.0 consiste nel fatto che nella versione 2.0 è stato contemplato l’uso della “richiesta avanzata” (da ampliare concetto a cura di Sergio). 
+La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l’uso della modalità “\ |STYLE2|\ ” che consente all’operatore di prescindere da un'attività di pre-protocollazione (prevista invece nella versione 1.0). 
 
 
 .. toctree:: 
@@ -42,6 +42,10 @@ Data rilascio versione 2.0 del manuale: giugno 2019
 
 
 .. |STYLE0| replace:: **Libro Firma**
+
+.. |STYLE1| replace:: **differenza tra la versione 1.0 e la 2.0**
+
+.. |STYLE2| replace:: **richiesta avanzata**
 
 
 .. |REPLACE1| raw:: html
