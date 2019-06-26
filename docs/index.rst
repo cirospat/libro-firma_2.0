@@ -7,6 +7,11 @@ Manuale d’uso dell'applicativo Libro Firma, versione 2.0
 
 |REPLACE1|
 
+
+..  Note:: 
+
+    Versione 2.0
+
 Il presente Documento vuole essere una breve guida per l’utente nella prima fase dell’operazione di “passaggio al digitale” del \ |LINK1|\ , illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo \ |STYLE0|\ .
 
 Questa è la versione 2.0  del manuale d’uso e segue la prima versione (rilasciata nel marzo 2018) che è disponibile a questo \ |LINK2|\ .
