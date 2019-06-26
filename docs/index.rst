@@ -41,7 +41,7 @@ Data rilascio versione 2.0 del manuale: giugno 2019
 
 .. |REPLACE1| raw:: html
 
-    <img src="" />
+    <img src="https://libro-firma.readthedocs.io/en/latest/_images/comune.png" />
 
 .. |LINK1| raw:: html
 
