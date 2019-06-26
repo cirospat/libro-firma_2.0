@@ -4,6 +4,8 @@
 Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0
 ################################################################
 
+L’applicativo “Libro Firma” è in uso al Comune di Palermo.
+
 
 |REPLACE1|
 
@@ -12,9 +14,9 @@ Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0
 
     Versione 2.0
 
-Il presente Documento vuole essere una breve guida per l’utente nella prima fase dell’operazione di “passaggio al digitale” del \ |LINK1|\ , illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo \ |STYLE0|\ .
+Il presente Documento vuole essere una breve guida per l’utente nella prima fase dell’operazione di “passaggio al digitale” del \ |LINK1|\ , illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo denominato \ |STYLE0|\ .
 
-Questa è la versione 2.0  del manuale d’uso e segue la prima versione (rilasciata nel marzo 2018) che è disponibile a questo \ |LINK2|\ .
+Questa è la versione 2.0  del manuale d’uso e segue la versione 1.0 (rilasciata nel marzo 2018) che è disponibile a questo \ |LINK2|\ .
 
 La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l’uso della modalità “\ |STYLE2|\ ” che consente all’operatore di prescindere da un'attività di pre-protocollazione (prevista invece nella versione 1.0). 
 
@@ -28,14 +30,14 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     libro_firma_2
     libro_firma_3
 
-Data rilascio versione 2.0 del manuale: giugno 2019
-
 
 ..  Note:: 
 
     Manuale d’uso a cura di Sergio Schimicci (\ |LINK3|\ ).
     
     Progetto su Github per “Read the Docs” a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ). U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo.
+    
+    Data rilascio versione 2.0 del manuale: giugno 2019.
 
 
 .. bottom of content
