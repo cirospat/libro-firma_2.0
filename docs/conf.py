@@ -13,7 +13,7 @@ __version__ = '1.0'
 
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Manuale d’uso dell’applicativo Libro Firma, versione 2.0'
+project = 'Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0'
 copyright = '= licenza CC BY'
 
 # The name of the Pygments (syntax highlighting) style to use.
