@@ -54,7 +54,7 @@ Nel \ |STYLE12|\  andrà riportato l’oggetto del documento, che si potrà evit
 
 Nel \ |STYLE13|\  andrà scelto dal menù a tendina uno fra quelli proposti ed adatti, ad es. comunicazione. 
 
-Nel \ |STYLE14|\  bisognerà cliccare su “scegli file” e poi selezionare dal pc il file in pdf di cui si richiede la pre-protocollazione. 
+Nel \ |STYLE14|\  bisognerà cliccare su “scegli file” e poi selezionare dal pc il file in pdf da sottoporre alla firma digitale. 
 
 Nel \ |STYLE15|\  andrà effettuata la scelta “si” onde consentire al sistema di inviare automaticamente una e-mail al richiedente che lo aggiorni sullo stato di avanzamento della pratica. Il richiedente riceverà una e-mail quando il Dirigente avrà firmato digitalmente il documento, ed in questa comunicazione ci sarà scritto il numero e la data di protocollo.
 
