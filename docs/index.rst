@@ -24,7 +24,7 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 
 .. toctree:: 
-    :maxdepth: 3
+    :maxdepth: 1
     :caption: Indice del manuale 
 
     libro_firma_premessa
