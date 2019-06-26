@@ -31,6 +31,7 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     libro_firma_1
     libro_firma_2
     libro_firma_3
+    privacy
 
 
 ..  Note:: 
