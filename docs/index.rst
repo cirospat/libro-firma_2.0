@@ -4,7 +4,7 @@
 Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0
 ################################################################
 
-L’applicativo “\ |STYLE0|\ ” è in uso al Comune di Palermo.
+L’applicativo gestionale “\ |STYLE0|\ ” è in uso al Comune di Palermo.
 
 
 |REPLACE1|
@@ -43,9 +43,9 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     
     * \ |STYLE7|\ : Sergio Schimicci (\ |LINK3|\ )
     
-    * \ |STYLE8|\ : Progetto su GitHub a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
+    * \ |STYLE8|\ : \ |LINK4|\  a cura di Sergio Schimicci e Ciro Spataro (\ |LINK5|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
     
-    * \ |STYLE9|\  \ |LINK5|\ .
+    * \ |STYLE9|\  \ |LINK6|\ 
 
 
 .. bottom of content
@@ -90,9 +90,13 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. |LINK4| raw:: html
 
-    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
+    <a href="https://github.com/cirospat/libro-firma_2.0" target="_blank">Progetto su GitHub</a>
 
 .. |LINK5| raw:: html
+
+    <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
+
+.. |LINK6| raw:: html
 
     <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">Creative Commons BY (attribuzione) 4.0 Internazionale</a>
 
