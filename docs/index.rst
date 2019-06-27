@@ -39,7 +39,7 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     
     * \ |STYLE4|\ : 2.0
     
-    * \ |STYLE5|\ : giugno 2019
+    * \ |STYLE5|\ : 26 giugno 2019
     
     * \ |STYLE6|\ : Sergio Schimicci (\ |LINK3|\ )
     
