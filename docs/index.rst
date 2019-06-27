@@ -44,6 +44,8 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     * \ |STYLE6|\ : Sergio Schimicci (\ |LINK3|\ )
     
     * \ |STYLE7|\ : Progetto su GitHub a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
+    
+    * \ |STYLE8|\  \ |LINK5|\ .
 
 
 .. bottom of content
@@ -65,6 +67,8 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. |STYLE7| replace:: **Read the Docs del manuale**
 
+.. |STYLE8| replace:: **Licenza adottata per il rilascio del manuale:**
+
 
 .. |REPLACE1| raw:: html
 
@@ -85,4 +89,8 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 .. |LINK4| raw:: html
 
     <a href="mailto:c.spataro@comune.palermo.it">c.spataro@comune.palermo.it</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://creativecommons.org/licenses/by/4.0/deed.it" target="_blank">Creative Commons BY (attribuzione) 4.0 Internazionale</a>
 
