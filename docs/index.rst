@@ -35,13 +35,15 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. admonition:: Metadati del manuale
 
-    * \ |STYLE3|\ : 2.0
+    * \ |STYLE3|\ : Manuale d’uso della “Procedura Digitale Libro Firma” 
     
-    * \ |STYLE4|\ : giugno 2019
+    * \ |STYLE4|\ : 2.0
     
-    * \ |STYLE5|\ : Sergio Schimicci (\ |LINK3|\ )
+    * \ |STYLE5|\ : giugno 2019
     
-    * \ |STYLE6|\ : Progetto su GitHub a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
+    * \ |STYLE6|\ : Sergio Schimicci (\ |LINK3|\ )
+    
+    * \ |STYLE7|\ : Progetto su GitHub a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
 
 
 .. bottom of content
@@ -53,13 +55,15 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. |STYLE2| replace:: **richiesta avanzata**
 
-.. |STYLE3| replace:: **Versione del manuale**
+.. |STYLE3| replace:: **Titolo del manuale**
 
-.. |STYLE4| replace:: **Data rilascio versione 2.0 del manuale**
+.. |STYLE4| replace:: **Versione del manuale**
 
-.. |STYLE5| replace:: **Autore del manuale**
+.. |STYLE5| replace:: **Data rilascio versione 2.0 del manuale**
 
-.. |STYLE6| replace:: **Read the Docs del manuale**
+.. |STYLE6| replace:: **Autore del manuale**
+
+.. |STYLE7| replace:: **Read the Docs del manuale**
 
 
 .. |REPLACE1| raw:: html
