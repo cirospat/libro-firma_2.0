@@ -9,13 +9,6 @@ L’applicativo “Libro Firma” è in uso al Comune di Palermo.
 
 |REPLACE1|
 
-
-..  Note:: 
-
-    Versione: 2.0
-    
-    Data rilascio versione 2.0: giugno 2019
-
 Il presente Documento vuole essere una breve guida per l’utente nella prima fase dell’operazione di “passaggio al digitale” del \ |LINK1|\ , illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo denominato \ |STYLE0|\ .
 
 Questa è la versione 2.0  del manuale d’uso e segue la versione 1.0 (rilasciata nel marzo 2018) che è disponibile a questo \ |LINK2|\ .
@@ -34,11 +27,15 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     privacy
 
 
-..  Note:: 
+.. admonition:: Metadati
 
-    Manuale d’uso a cura di Sergio Schimicci (\ |LINK3|\ ).
+    Versione del manuale: 2.0
     
-    Progetto su Github per “Read the Docs” a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ). U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo.
+    Data rilascio versione 2.0 del manuale: giugno 2019
+    
+    Autore del manuale: Sergio Schimicci (\ |LINK3|\ )
+    
+    Read the Docs del manuale: Progetto su Github a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
 
 
 .. bottom of content
