@@ -74,7 +74,7 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. |REPLACE1| raw:: html
 
-    <img src="https://libro-firma.readthedocs.io/en/latest/_images/comune.png" />
+    <img src="https://libro-firma.readthedocs.io/it/latest/_images/comune.png" />
 
 .. |LINK1| raw:: html
 
