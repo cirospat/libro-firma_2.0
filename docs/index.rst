@@ -27,15 +27,15 @@ La \ |STYLE1|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     privacy
 
 
-.. admonition:: Metadati
+.. admonition:: Metadati del manuale
 
-    Versione del manuale: 2.0
+    * Versione del manuale: 2.0
     
-    Data rilascio versione 2.0 del manuale: giugno 2019
+    * Data rilascio versione 2.0 del manuale: giugno 2019
     
-    Autore del manuale: Sergio Schimicci (\ |LINK3|\ )
+    * Autore del manuale: Sergio Schimicci (\ |LINK3|\ )
     
-    Read the Docs del manuale: Progetto su Github a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
+    * Read the Docs del manuale: Progetto su GitHub a cura di Sergio Schimicci e Ciro Spataro (\ |LINK4|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
 
 
 .. bottom of content
