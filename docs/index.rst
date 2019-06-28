@@ -12,6 +12,9 @@ L’applicativo gestionale “\ |STYLE0|\ ” è in uso al Comune di Palermo.
 
 |REPLACE2|
 
+
+|REPLACE3|
+
 Il presente Documento vuole essere una breve guida per l’utente nella prima fase dell’operazione di “passaggio al digitale” del \ |LINK1|\ , illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico mediante l’applicativo denominato \ |STYLE1|\ .
 
 Questa è la versione 2.0  del manuale d’uso e segue la versione 1.0 (rilasciata nel marzo 2018) che è disponibile a questo \ |LINK2|\ .
@@ -81,6 +84,9 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 .. |REPLACE2| raw:: html
 
     <img src="https://libro-firma.readthedocs.io/it/latest/_images/comune.png" />
+.. |REPLACE3| raw:: html
+
+    <img src="https://img.shields.io/badge/Versione_manuale-2.0-red.svg?style=popout&logo=GitHub&logoColor=orange" />
 
 .. |LINK1| raw:: html
 
