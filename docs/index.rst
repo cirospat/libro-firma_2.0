@@ -83,10 +83,10 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
     <img src="https://img.shields.io/github/last-commit/cirospat/libro-firma_2.0.svg?colorB=informational&label=ultimo%20aggiornamento&style=popout&logo=GitHub&logoColor=green" />
 .. |REPLACE2| raw:: html
 
-    <img src="https://libro-firma.readthedocs.io/it/latest/_images/comune.png" />
+    <img src="https://img.shields.io/badge/Versione_manuale-2.0-red.svg?style=popout&logo=GitHub&logoColor=orange" />
 .. |REPLACE3| raw:: html
 
-    <img src="https://img.shields.io/badge/Versione_manuale-2.0-red.svg?style=popout&logo=GitHub&logoColor=orange" />
+    <img src="https://libro-firma.readthedocs.io/it/latest/_images/comune.png" />
 
 .. |LINK1| raw:: html
 
