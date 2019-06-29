@@ -38,6 +38,8 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
     privacy
 
+--------
+
 
 .. admonition:: Metadati del manuale
 
