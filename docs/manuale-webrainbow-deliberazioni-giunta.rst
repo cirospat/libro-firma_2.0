@@ -8,7 +8,7 @@ Manuale d’uso dell’applicativo gestionale per le deliberazioni della Giunta 
 
 \ |STYLE0|\ 
 
-(Descrizione degli Stati e Ruoli di Flusso - bozza di analisi)
+(Descrizione degli stati e ruoli di flusso. Bozza di analisi a cura della SISPI con la condivisione del Servizio Innovazione)
 
 
 .. toctree::  
