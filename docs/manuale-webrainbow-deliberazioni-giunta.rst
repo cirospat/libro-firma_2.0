@@ -8,6 +8,15 @@ manuale d’uso dell’applicativo gestionale per le deliberazioni della giunta 
 
 (Descrizione degli Stati e Ruoli di Flusso - bozza di analisi)
 
+.. _bookmark-kix-udby27urf3x0:
+
+
+.. toctree::  
+    :maxdepth: 3
+    :caption: deliberazioni Giunta 
+
+    manuale-webrainbow-deliberazioni-giunta
+
 |
 
 
