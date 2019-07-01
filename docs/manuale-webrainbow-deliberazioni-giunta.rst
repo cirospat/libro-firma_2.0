@@ -1,14 +1,14 @@
 
-.. _h48551bf3717497954345e14413f125d:
+.. _h1156f503c10711971979730f1776:
 
-manuale d’uso dell’applicativo gestionale per le deliberazioni della giunta di palermo
+Manuale d’uso dell’applicativo gestionale per le deliberazioni della Giunta di Palermo
 ######################################################################################
+
+.. _bookmark-kix-udby27urf3x0:
 
 \ |STYLE0|\ 
 
 (Descrizione degli Stati e Ruoli di Flusso - bozza di analisi)
-
-.. _bookmark-kix-udby27urf3x0:
 
 
 .. toctree::  
@@ -19,10 +19,15 @@ manuale d’uso dell’applicativo gestionale per le deliberazioni della giunta 
 
 |
 
+.. _h01079336d6b18653d1a56211833a4:
 
-#. Introduzione
+1 Introduzione
+**************
 
-    #. Contesto e obiettivi
+.. _h664c292a7c6e12593c6815545d612a3:
+
+1.1 Contesto e obiettivi
+========================
 
 Il presente documento si inserisce nell’ambito dell’utilizzo della Piattaforma WebRainbow quale strumento di informatizzazione dei processi finalizzati alla dematerializzazione degli atti amministrativi predisposti dall’Amministrazione comunale.
 
@@ -32,9 +37,15 @@ Il contesto organizzativo di riferimento è costituito dall’intera Amministraz
 
 |
 
-#. Dematerializzazione del flusso delle delibere di giunta 
+.. _hf707d346b155b26e552235365a7443:
 
-    #. Ruoli Coinvolti 
+2. Dematerializzazione del flusso delle delibere di giunta 
+***********************************************************
+
+.. _h23d2bd2223795c1a77793f681b3043:
+
+2.1 Ruoli Coinvolti 
+====================
 
 Di seguito l’elenco dei ruoli che verranno definiti sulla piattaforma WebRainbow, ai quali verranno associati i profili dei vari utenti:
 
@@ -60,9 +71,15 @@ Di seguito l’elenco dei ruoli che verranno definiti sulla piattaforma WebRainb
 
 |
 
-#. Flusso Delibere di Giunta 
+.. _h5a13107f396a773f73ca2548233965:
 
-    #. Stato: Start
+Flusso Delibere di Giunta 
+**************************
+
+.. _h6957681e6dc31e67d224e56714a5:
+
+2.2 Stato: Start
+================
 
 \ |STYLE12|\ 
 
@@ -91,7 +108,10 @@ Nel processo di creazione viene inoltre generata la copertina dell’atto; se la
 
 |
 
-    #. Stato: Definizione
+.. _h5e742062726876803312143576046:
+
+2.3 Stato: Definizione
+======================
 
 \ |STYLE23|\ 
 
@@ -126,7 +146,10 @@ Allo stesso modo l’Utente ha la possibilità di inserire ulteriori documenti n
 
 |
 
-    #. Stato: In Parere
+.. _h36262a84d353864135924334961384a:
+
+2.4  Stato: In Parere
+=====================
 
 \ |STYLE47|\ 
 
@@ -145,7 +168,10 @@ Quindi dovrà scrivere una breve “\ |STYLE58|\ ” nell’apposito campo e rim
 
 |
 
-    #. Stato: Parere Regolarità Tecnica
+.. _h7a3f75b3e2b20756e2d805c6e391928:
+
+2.5 Stato: Parere Regolarità Tecnica
+====================================
 
 \ |STYLE60|\ 
 
@@ -172,7 +198,10 @@ Contestualmente all’azione Favorevole / Contrario, il Dirigente dovrà sottosc
 
 |
 
-    #. Stato: Firma Dirigente Sovraordinato
+.. _h7c6c36331416577218695c80577c4f51:
+
+2.6 Stato: Firma Dirigente Sovraordinato
+========================================
 
 \ |STYLE67|\ 
 
@@ -199,7 +228,10 @@ L’azione \ |STYLE77|\  attiva un controllo sul campo “\ |STYLE78|\ ” e, qu
 
 |
 
-    #. Stato: Firma Capo Area
+.. _h1a1e31261d496c5a2679450603a1c17:
+
+2.7 Stato: Firma Capo Area
+==========================
 
 \ |STYLE82|\ 
 
@@ -220,7 +252,10 @@ Le ultime due azioni attiveranno un controllo sul campo “\ |STYLE86|\ ” e, q
 
 |
 
-    #. Stato: Firma Assessore
+.. _h6436e4f3f51c11c7a53874423f1c:
+
+2.8 Stato: Firma Assessore
+==========================
 
 \ |STYLE90|\ 
 
@@ -243,24 +278,32 @@ L’assessore competente può anche rimandare la Proposta al Capo Area, e in que
 
 L’azione \ |STYLE94|\  attiva un controllo sul campo “\ |STYLE95|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio: \ |STYLE96|\ \ |STYLE97|\ \ |STYLE98|\ 
 
-\ |STYLE99|\ 
+|
 
-    #. Stato: Parere Contabile
+.. _h316dcc6f6d2a803a7957597a6a2766:
+
+2.9 Stato: Parere Contabile
+===========================
 
 Ruolo: Istruttore di Ragioneria
 
 Analogamente a quanto accade per le Determinazioni Dirigenziali, anche per le Delibere di Giunta il procedimento che si conclude con il rilascio del Parere di Regolarità Contabile costituisce un flusso distinto da quello di approvazione della proposta di Delibera.
 
-La Proposta arriva in Ragioneria e, in funzione delle sue caratteristiche, viene istruita dai relativi Dirigenti e Funzionari e/o dal Ragioniere Generale, il quale rende e sottoscrive digitalmente il Parere di Regolarità Contabile con esito “\ |STYLE100|\ ”, “\ |STYLE101|\ ” o “\ |STYLE102|\ ”.
+La Proposta arriva in Ragioneria e, in funzione delle sue caratteristiche, viene istruita dai relativi Dirigenti e Funzionari e/o dal Ragioniere Generale, il quale rende e sottoscrive digitalmente il Parere di Regolarità Contabile con esito “\ |STYLE99|\ ”, “\ |STYLE100|\ ” o “\ |STYLE101|\ ”.
 
-.. _h3755501f6125373c14b3b47010746c:
+|
 
-Delibere di Giunta - Flusso di Ragioneria
-*****************************************
+.. _h5f3d132a65694b473e40435b3848602f:
 
-    #. Stato: Assegnazione Proposta
+3   Delibere di Giunta - Flusso di Ragioneria
+*********************************************
 
-\ |STYLE103|\ 
+.. _h606b26183e603c644a4f6222461d6c38:
+
+3.1 Stato: Assegnazione Proposta
+================================
+
+\ |STYLE102|\ 
 
 L’Istruttore di Ragioneria esamina la Proposta e la assegna ad un Servizio della Ragioneria Generale; la proposta andrà all’attenzione del ruolo Dirigente di Ragioneria del Servizio indicato. 
 
@@ -271,164 +314,182 @@ In tutti gli stati del flusso di Ragioneria, è disponibile un campo denominato 
 
 .. admonition:: Azioni
 
-    \ |STYLE104|\ 
+    \ |STYLE103|\ 
 
-L’azione “\ |STYLE105|\ ” attiva un controllo sul campo “\ |STYLE106|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio: \ |STYLE107|\ \ |STYLE108|\ \ |STYLE109|\ 
+L’azione “\ |STYLE104|\ ” attiva un controllo sul campo “\ |STYLE105|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio: \ |STYLE106|\ \ |STYLE107|\ \ |STYLE108|\ 
 
 |
 
-    #. Stato: Istruttoria Dirigente di Ragioneria
+.. _h7f215a176a507db1b0b154a243c3b:
 
-\ |STYLE110|\ 
+3.2 Stato: Istruttoria Dirigente di Ragioneria
+==============================================
+
+\ |STYLE109|\ 
 
 Il Dirigente di Ragioneria del Servizio indicato esamina la Proposta.
 
 Conseguentemente può svolgere in autonomia la necessaria attività istruttoria ovvero assegnare la Proposta ad un Responsabile di Ragioneria, scelto tra quelli del proprio Servizio.
 
-Nel caso in cui svolga l’istruttoria, il Dirigente di Ragioneria, scriverà le proprie conclusioni sul campo \ |STYLE111|\  su cui, in analogia al campo Note, saranno riportati anche il nome di chi scrive, la data.
+Nel caso in cui svolga l’istruttoria, il Dirigente di Ragioneria, scriverà le proprie conclusioni sul campo \ |STYLE110|\  su cui, in analogia al campo Note, saranno riportati anche il nome di chi scrive, la data.
 
-Nel caso in cui la Proposta venga ritenuta incompleta, il Dirigente di Ragioneria può richiedere una integrazione al Dirigente Proponente, compilando l’apposito campo “\ |STYLE112|\ ” e inviando una richiesta al Dirigente Proponente attraverso l’azione “\ |STYLE113|\ ”.
+Nel caso in cui la Proposta venga ritenuta incompleta, il Dirigente di Ragioneria può richiedere una integrazione al Dirigente Proponente, compilando l’apposito campo “\ |STYLE111|\ ” e inviando una richiesta al Dirigente Proponente attraverso l’azione “\ |STYLE112|\ ”.
 
 La richiesta di integrazione non blocca l’iter della Proposta, che può continuare il suo flusso all’interno della Ragioneria Generale.
 
 Durante l’istruttoria potrebbero essere generati, al di fuori della piattaforma WR, documenti di natura contabile che andranno allegati alla proposta.
 
-Tali allegati possono essere pubblici, andando a far parte del fascicolo generale della Proposta, tra i “\ |STYLE114|\ ”, o riservati, con visibilità limitata alla Ragioneria, ed in tal caso andranno aggiunti tra gli “\ |STYLE115|\ ”.
+Tali allegati possono essere pubblici, andando a far parte del fascicolo generale della Proposta, tra i “\ |STYLE113|\ ”, o riservati, con visibilità limitata alla Ragioneria, ed in tal caso andranno aggiunti tra gli “\ |STYLE114|\ ”.
 
 
 .. admonition:: Azioni
 
-    \ |STYLE116|\ 
+    \ |STYLE115|\ 
 
-\ |STYLE117|\ \ |STYLE118|\ \ |STYLE119|\ \ |STYLE120|\ \ |STYLE121|\ 
+\ |STYLE116|\ \ |STYLE117|\ \ |STYLE118|\ \ |STYLE119|\ \ |STYLE120|\ 
 
-\ |STYLE122|\ \ |STYLE123|\ \ |STYLE124|\ \ |STYLE125|\ \ |STYLE126|\ \ |STYLE127|\ \ |STYLE128|\ \ |STYLE129|\ \ |STYLE130|\ 
+\ |STYLE121|\ \ |STYLE122|\ \ |STYLE123|\ \ |STYLE124|\ \ |STYLE125|\ \ |STYLE126|\ \ |STYLE127|\ \ |STYLE128|\ \ |STYLE129|\ 
 
-\ |STYLE131|\ \ |STYLE132|\ \ |STYLE133|\ \ |STYLE134|\ \ |STYLE135|\ \ |STYLE136|\ \ |STYLE137|\ \ |STYLE138|\ \ |STYLE139|\ 
+\ |STYLE130|\ \ |STYLE131|\ \ |STYLE132|\ \ |STYLE133|\ \ |STYLE134|\ \ |STYLE135|\ \ |STYLE136|\ \ |STYLE137|\ \ |STYLE138|\ 
 
-\ |STYLE140|\ \ |STYLE141|\ \ |STYLE142|\ \ |STYLE143|\  \ |STYLE144|\ \ |STYLE145|\   \ |STYLE146|\ \ |STYLE147|\ \ |STYLE148|\ 
+\ |STYLE139|\ \ |STYLE140|\ \ |STYLE141|\ \ |STYLE142|\  \ |STYLE143|\ \ |STYLE144|\   \ |STYLE145|\ \ |STYLE146|\ \ |STYLE147|\ 
 
 |
 
-    #. Stato: Istruttoria Funzionario di Ragioneria
+.. _h25397c92f525130533fe2375761f42:
 
-\ |STYLE149|\ 
+3.3 Stato: Istruttoria Funzionario di Ragioneria
+================================================
+
+\ |STYLE148|\ 
 
 Il Responsabile di Ragioneria del Servizio indicato esamina la Proposta.
 
-Il Responsabile di Ragioneria riporterà le proprie conclusioni su un campo denominato \ |STYLE150|\ , con funzionamento analogo al campo Note (ovvero con storicizzazione del contenuto), visibile solo all’interno della Ragioneria.
+Il Responsabile di Ragioneria riporterà le proprie conclusioni su un campo denominato \ |STYLE149|\ , con funzionamento analogo al campo Note (ovvero con storicizzazione del contenuto), visibile solo all’interno della Ragioneria.
 
-Nel caso in cui la Proposta venga ritenuta incompleta, il Responsabile di Ragioneria può indicarne le motivazioni, compilando l’apposito campo “\ |STYLE151|\ ”.
+Nel caso in cui la Proposta venga ritenuta incompleta, il Responsabile di Ragioneria può indicarne le motivazioni, compilando l’apposito campo “\ |STYLE150|\ ”.
 
-Il Responsabile di Ragioneria può inserire documenti di natura contabile, che andranno allegati alla proposta tra i “\ |STYLE152|\ ” o tra gli “\ |STYLE153|\ ”, in funzione della visibilità che si vuole dare ad essi all’esterno della Ragioneria Generale.
+Il Responsabile di Ragioneria può inserire documenti di natura contabile, che andranno allegati alla proposta tra i “\ |STYLE151|\ ” o tra gli “\ |STYLE152|\ ”, in funzione della visibilità che si vuole dare ad essi all’esterno della Ragioneria Generale.
 
 
 .. admonition:: Azioni
 
-    \ |STYLE154|\ 
+    \ |STYLE153|\ 
 
-L’azione “\ |STYLE155|\ ”, invia la Proposta al ruolo Dirigente di Ragioneria nello stato Istruttoria Dirigente di Ragioneria (vedi punto precedente).
+L’azione “\ |STYLE154|\ ”, invia la Proposta al ruolo Dirigente di Ragioneria nello stato Istruttoria Dirigente di Ragioneria (vedi punto precedente).
 
 |
 
-    #. Stato: Parere Regolarità Contabile
+.. _h4973641472451665437b33b511ba3f:
 
-\ |STYLE156|\ 
+3.4 Stato: Parere Regolarità Contabile
+======================================
 
-In questa fase il \ |STYLE157|\  può argomentare, rendere e sottoscrivere il Parere di Regolarità Contabile relativo alla Proposta di Delibera, assegnare la Proposta ad un altro Dirigente di Ragioneria per ulteriori supplementi di istruttoria, restituire motivatamente la Proposta al Dirigente proponente.
+\ |STYLE155|\ 
 
-Il parere sarà reso e firmato attraverso uno dei tre tasti di azione: “\ |STYLE158|\ ”, “\ |STYLE159|\ ” o “\ |STYLE160|\ ”.
+In questa fase il \ |STYLE156|\  può argomentare, rendere e sottoscrivere il Parere di Regolarità Contabile relativo alla Proposta di Delibera, assegnare la Proposta ad un altro Dirigente di Ragioneria per ulteriori supplementi di istruttoria, restituire motivatamente la Proposta al Dirigente proponente.
 
-Sarà possibile compilare un campo testo, denominato “\ |STYLE161|\ ” in cui il Ragioniere Generale potrà argomentare la propria scelta, anche in caso di parere favorevole o non dovuto. 
+Il parere sarà reso e firmato attraverso uno dei tre tasti di azione: “\ |STYLE157|\ ”, “\ |STYLE158|\ ” o “\ |STYLE159|\ ”.
 
-La compilazione del campo “\ |STYLE162|\ ” è obbligatoria in caso di parere contrario.
+Sarà possibile compilare un campo testo, denominato “\ |STYLE160|\ ” in cui il Ragioniere Generale potrà argomentare la propria scelta, anche in caso di parere favorevole o non dovuto. 
 
-Nel caso in cui, per esporre le proprie conclusioni, il Ragioniere Generale voglia redigere un testo di lunghezza superiore a quanto consentito nel suddetto campo, o preferisca comunque editare un documento esterno alla piattaforma, potrà inserirlo nell’apposita sezione “\ |STYLE163|\ ”, disponibile nella pagina Documenti.
+La compilazione del campo “\ |STYLE161|\ ” è obbligatoria in caso di parere contrario.
+
+Nel caso in cui, per esporre le proprie conclusioni, il Ragioniere Generale voglia redigere un testo di lunghezza superiore a quanto consentito nel suddetto campo, o preferisca comunque editare un documento esterno alla piattaforma, potrà inserirlo nell’apposita sezione “\ |STYLE162|\ ”, disponibile nella pagina Documenti.
 
 Sarà quindi generato automaticamente un documento che, in base al parere reso, riporti le seguenti diciture:
 
-* \ |STYLE164|\  \ |STYLE165|\  \ |STYLE166|\ 
+* \ |STYLE163|\  \ |STYLE164|\  \ |STYLE165|\ 
 
-* \ |STYLE167|\  \ |STYLE168|\  \ |STYLE169|\ 
+* \ |STYLE166|\  \ |STYLE167|\  \ |STYLE168|\ 
 
-* \ |STYLE170|\  \ |STYLE171|\  \ |STYLE172|\ 
+* \ |STYLE169|\  \ |STYLE170|\  \ |STYLE171|\ 
 
-Se motivato, in calce alle relative diciture, il Parere riporterà la frase: “\ |STYLE173|\ ” e le relative argomentazioni contenute nel campo Motivazioni o nel Documento Parere Contabile.
+Se motivato, in calce alle relative diciture, il Parere riporterà la frase: “\ |STYLE172|\ ” e le relative argomentazioni contenute nel campo Motivazioni o nel Documento Parere Contabile.
 
 Successivamente il Ragioniere Generale dovrà sottoscrivere il Parere con il suo certificato di firma digitale.
 
 
 .. admonition:: Azioni
 
-    \ |STYLE174|\ 
+    \ |STYLE173|\ 
 
-Le azioni “\ |STYLE175|\ ”, “\ |STYLE176|\ ”, “\ |STYLE177|\ ” attivano il processo di firma digitale, completato il quale la Proposta arriva in Segreteria Generale.
+Le azioni “\ |STYLE174|\ ”, “\ |STYLE175|\ ”, “\ |STYLE176|\ ” attivano il processo di firma digitale, completato il quale la Proposta arriva in Segreteria Generale.
 
-Le azioni “\ |STYLE178|\ ” o “\ |STYLE179|\ ”, innescano un controllo sul campo Motivazioni o sul Documento Parere Contabile e, qualora siano entrambi non presenti, la piattaforma mostra il messaggio di promemoria (non bloccante):  \ |STYLE180|\ \ |STYLE181|\ \ |STYLE182|\ .
+Le azioni “\ |STYLE177|\ ” o “\ |STYLE178|\ ”, innescano un controllo sul campo Motivazioni o sul Documento Parere Contabile e, qualora siano entrambi non presenti, la piattaforma mostra il messaggio di promemoria (non bloccante):  \ |STYLE179|\ \ |STYLE180|\ \ |STYLE181|\ .
 
  
 
-L’azione “\ |STYLE183|\ ” attiva un controllo sul campo Motivazioni o sul Documento Parere Contabile e, qualora siano entrambi non presenti, la piattaforma mostra il messaggio di errore:  \ |STYLE184|\ \ |STYLE185|\ \ |STYLE186|\ .
+L’azione “\ |STYLE182|\ ” attiva un controllo sul campo Motivazioni o sul Documento Parere Contabile e, qualora siano entrambi non presenti, la piattaforma mostra il messaggio di errore:  \ |STYLE183|\ \ |STYLE184|\ \ |STYLE185|\ .
 
-L’azione “\ |STYLE187|\ ” attiva un controllo sul campo “\ |STYLE188|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: “\ |STYLE189|\ \ |STYLE190|\ 
+L’azione “\ |STYLE186|\ ” attiva un controllo sul campo “\ |STYLE187|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: “\ |STYLE188|\ \ |STYLE189|\ 
 
-L’azione “\ |STYLE191|\ ” attiva un controllo sul campo Motivazioni e, qualora sia presente, la piattaforma mostra il messaggio di errore:  \ |STYLE192|\ \ |STYLE193|\ \ |STYLE194|\ .
+L’azione “\ |STYLE190|\ ” attiva un controllo sul campo Motivazioni e, qualora sia presente, la piattaforma mostra il messaggio di errore:  \ |STYLE191|\ \ |STYLE192|\ \ |STYLE193|\ .
 
 |
 
-    #. Stato: Richiesta integrazioni / controdeduzioni
+.. _h6132147867383a73573d774644495f:
 
-\ |STYLE195|\ 
+3.5 Stato: Richiesta integrazioni / controdeduzioni
+===================================================
+
+\ |STYLE194|\ 
 
 Il Dirigente Proponente a cui, tra le attività da fare, arriva una richiesta di integrazione di istruttoria, di controdeduzioni o di attestazione di urgenza, ha la possibilità di visualizzare la Proposta e le motivazioni della richiesta e rispondere, compilando l’apposito campo. 
 
-Potrà quindi inserire eventuali documenti nell’apposita sezione “\ |STYLE196|\ ” e inviare la risposta attraverso l’azione \ |STYLE197|\ \ |STYLE198|\ \ |STYLE199|\ , oppure ignorare la richiesta, attraverso l’azione \ |STYLE200|\ \ |STYLE201|\ \ |STYLE202|\ . 
+Potrà quindi inserire eventuali documenti nell’apposita sezione “\ |STYLE195|\ ” e inviare la risposta attraverso l’azione \ |STYLE196|\ \ |STYLE197|\ \ |STYLE198|\ , oppure ignorare la richiesta, attraverso l’azione \ |STYLE199|\ \ |STYLE200|\ \ |STYLE201|\ . 
 
 In entrambi i casi, al richiedente arriverà un messaggio di notifica.
 
 
 .. admonition:: Azioni
 
-    \ |STYLE203|\ 
+    \ |STYLE202|\ 
 
 |
 
-    #. Stato: Istruttoria Segreteria Generale
+.. _h463b2516572c10a41771413d28c3f:
 
-\ |STYLE204|\ 
+3.6 Stato: Istruttoria Segreteria Generale
+==========================================
 
-Il Funzionario Atti Deliberativi esamina la proposta ed aggiunge eventuali “\ |STYLE205|\ ”.
+\ |STYLE203|\ 
 
-Oltre ai suddetti allegati, tra i documenti della Proposta è presente una sezione “\ |STYLE206|\ ”, in cui è possibile inserire tutti i documenti necessari all’istruttoria (ad es.: riferimenti a leggi e normative in vigore, note interne di istruttoria, …), che non devono essere visibili in Giunta, né agli altri utenti al di fuori della Segreteria Generale.
+Il Funzionario Atti Deliberativi esamina la proposta ed aggiunge eventuali “\ |STYLE204|\ ”.
 
-Nel caso in cui il Funzionario Atti Deliberativi ritenga che sia opportuno chiedere al Dirigente Proponente di integrare la Proposta con ulteriori documenti, può indicarne le motivazioni, compilando l’apposito campo “\ |STYLE207|\ ”. 
+Oltre ai suddetti allegati, tra i documenti della Proposta è presente una sezione “\ |STYLE205|\ ”, in cui è possibile inserire tutti i documenti necessari all’istruttoria (ad es.: riferimenti a leggi e normative in vigore, note interne di istruttoria, …), che non devono essere visibili in Giunta, né agli altri utenti al di fuori della Segreteria Generale.
 
-Il risultato dell’attività istruttoria viene riportato nel campo Note, la Proposta viene temporaneamente classificata come iscrivibile o no all’ordine del giorno della successiva seduta di Giunta, attraverso il  campo “\ |STYLE208|\ ” ed avanzata al Segretario Generale.
+Nel caso in cui il Funzionario Atti Deliberativi ritenga che sia opportuno chiedere al Dirigente Proponente di integrare la Proposta con ulteriori documenti, può indicarne le motivazioni, compilando l’apposito campo “\ |STYLE206|\ ”. 
+
+Il risultato dell’attività istruttoria viene riportato nel campo Note, la Proposta viene temporaneamente classificata come iscrivibile o no all’ordine del giorno della successiva seduta di Giunta, attraverso il  campo “\ |STYLE207|\ ” ed avanzata al Segretario Generale.
 
 
 .. admonition:: Azioni
 
-    \ |STYLE209|\ 
+    \ |STYLE208|\ 
 
 |
 
-    #. Stato: Definizione istruttoria
+.. _h472a754c66517c7362c71241e181a77:
 
-\ |STYLE210|\ 
+3.7 Stato: Definizione istruttoria
+==================================
+
+\ |STYLE209|\ 
 
 Il Segretario Generale riceve la Proposta e, in funzione della data e dell’ora di arrivo in Segreteria Generale, seleziona all’interno del campo obbligatorio “Arrivo Proposta”, uno dei seguenti valori:
 
+“\ |STYLE210|\ ”, 
+
 “\ |STYLE211|\ ”, 
 
-“\ |STYLE212|\ ”, 
+“\ |STYLE212|\ ”.
 
-“\ |STYLE213|\ ”.
-
-Può quindi inserire le proprie osservazioni in merito, all’interno dell’apposito campo “\ |STYLE214|\ ”.
+Può quindi inserire le proprie osservazioni in merito, all’interno dell’apposito campo “\ |STYLE213|\ ”.
 
 Il Segretario Generale può richiedere al Dirigente Proponente una Integrazione di Istruttoria o di controdeduzioni, in caso di parere contabile contrario, o una Attestazione di Urgenza.
 
-Compila l’apposito campo “\ |STYLE215|\ ” e, attraverso l’azione “\ |STYLE216|\ ”, invia una richiesta al Dirigente Proponente.
+Compila l’apposito campo “\ |STYLE214|\ ” e, attraverso l’azione “\ |STYLE215|\ ”, invia una richiesta al Dirigente Proponente.
 
 Sceglie quindi di attendere la risposta del Dirigente o avanzare la Proposta in Giunta.
 
@@ -436,26 +497,29 @@ Può ancora allegare documenti o rimandare la proposta allo stato precedente per
 
 Se la Proposta è pronta per essere discussa in Giunta diventa, o rimane, iscrivibile all’Ordine del Giorno della seduta. 
 
-Attraverso l’azione “\ |STYLE217|\ ”, la proposta passa allo step successivo.
+Attraverso l’azione “\ |STYLE216|\ ”, la proposta passa allo step successivo.
 
-Nel caso in cui invece la Proposta debba necessariamente essere riformulata, il Segretario Generale può rigettarla, dando le opportune motivazioni nell’apposito campo “\ |STYLE218|\ ”, attraverso l’azione “\ |STYLE219|\ ”.
+Nel caso in cui invece la Proposta debba necessariamente essere riformulata, il Segretario Generale può rigettarla, dando le opportune motivazioni nell’apposito campo “\ |STYLE217|\ ”, attraverso l’azione “\ |STYLE218|\ ”.
 
 L’atto restituito sarà inviato sia al Dirigente Proponente che al Ragioniere Generale per Presa Visione e successivamente archiviato.
 
 
 .. admonition:: Azioni
 
-    \ |STYLE220|\ 
+    \ |STYLE219|\ 
 
-L’azione “\ |STYLE221|\ ” attiva un controllo sul campo “\ |STYLE222|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: \ |STYLE223|\ \ |STYLE224|\ \ |STYLE225|\ 
+L’azione “\ |STYLE220|\ ” attiva un controllo sul campo “\ |STYLE221|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: \ |STYLE222|\ \ |STYLE223|\ \ |STYLE224|\ 
 
-L’azione “\ |STYLE226|\ ” attiva un controllo sul campo “\ |STYLE227|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore:  \ |STYLE228|\ \ |STYLE229|\ \ |STYLE230|\ 
+L’azione “\ |STYLE225|\ ” attiva un controllo sul campo “\ |STYLE226|\ ” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore:  \ |STYLE227|\ \ |STYLE228|\ \ |STYLE229|\ 
 
 |
 
-    #. Predisposizione Ordine del Giorno
+.. _h6c4066467b5b97f48354652a85938:
 
-\ |STYLE231|\ 
+3.8 Predisposizione Ordine del Giorno
+=====================================
+
+\ |STYLE230|\ 
 
 Il funzionario seleziona manualmente gli atti da iscrivere all’Ordine del Giorno.
 
@@ -466,13 +530,16 @@ Dovrà poi essere prodotto il documento di convocazione della Giunta contenente 
 
 .. admonition:: Azioni
 
-     \ |STYLE232|\ 
+     \ |STYLE231|\ 
 
 |
 
-    #. Stato: Giunta
+.. _h63d44592e697f1918543d42365d234d:
 
-\ |STYLE233|\ 
+3.9 Stato: Giunta
+=================
+
+\ |STYLE232|\ 
 
 Nel momento in cui la Proposta di Delibera arriva in Giunta, è reso disponibile un documento, visualizzabile all’interno della piattaforma, che riassume tutte le operazioni svolte sulla Proposta, con le relative firme o visti, e i tempi (data e ora) in cui sono state effettuate.
 
@@ -501,38 +568,47 @@ L’approvazione dell’atto sarà notificata a tutti i soggetti che hanno parte
 
 .. admonition:: Azioni
 
-     \ |STYLE234|\ 
+     \ |STYLE233|\ 
 
-L’azione “\ |STYLE235|\ ”, riporta la Proposta allo step precedente, nel caso in cui sia stata avanzata in Giunta erroneamente.
+L’azione “\ |STYLE234|\ ”, riporta la Proposta allo step precedente, nel caso in cui sia stata avanzata in Giunta erroneamente.
 
 |
 
-    #. Stato: Firma del Sindaco
+.. _h7653686d751f77112f7635f777628:
 
-\ |STYLE236|\ 
+3.10 Stato: Firma del Sindaco
+=============================
+
+\ |STYLE235|\ 
 
 Il ruolo Presidente di Giunta è generalmente rivestito dal Sindaco, ma è riferito alla singola seduta ed è un ruolo dinamico: se il Sindaco è assente, la Giunta viene presieduta dal Vice Sindaco; se è assente anche il Vice Sindaco, presiede, tra gli Assessori presenti, il più Anziano per età.
 
 
 .. admonition:: Azioni
 
-    \ |STYLE237|\ 
+    \ |STYLE236|\ 
 
 |
 
-    #. Stato: Firma del Segretario Generale
+.. _h4807c6966876481783cf77704628:
 
-\ |STYLE238|\ 
+3.11 Stato: Firma del Segretario Generale
+=========================================
+
+\ |STYLE237|\ 
 
 .. admonition:: Azioni
 
-    \ |STYLE239|\ 
+    \ |STYLE238|\ 
 
 |
 
-    #. Stato: Firma Assessore Anziano
+.. _h3753532e1a55147a84a40511a726515:
 
-\ |STYLE240|\ 
+3.12 Stato: Firma Assessore Anziano
+===================================
+
+\ |STYLE239|\ 
 
 Dopo la firma dell’Assessore Anziano, l’atto viene numerato (registro SDELGIU) e datato.
 
@@ -541,13 +617,16 @@ Il ruolo di Assessore anziano è riferito alla singola seduta ed è un ruolo din
 
 .. admonition:: Azioni
 
-    \ |STYLE241|\ 
+    \ |STYLE240|\ 
 
 |
 
-    #. Stato: Pubblicazione Albo Pretorio
+.. _h96c7a95c47859428597661782e5c:
 
-\ |STYLE242|\  
+3.13 Stato: Pubblicazione Albo Pretorio
+=======================================
+
+\ |STYLE241|\  
 
 Dopo la firma e la numerazione della Delibera, il Segretario Generale pubblica i documenti all’Albo Pretorio.
 
@@ -556,27 +635,33 @@ Saranno pubblicati solo i documenti che devono avere visibilità pubblica, event
 
 .. admonition:: Azioni
 
-    \ |STYLE243|\ 
+    \ |STYLE242|\ 
 
 |
 
-#. Flusso Delibere di Giunta di mero indirizzo 
+.. _h6442713e433f4943b541f433915c48:
 
-    #. Stato: Start 
+4 Flusso Delibere di Giunta di mero indirizzo 
+**********************************************
 
-\ |STYLE244|\ 
+.. _h204e376511228a1c77032d27297c:
 
-Il profilo con ruolo “\ |STYLE245|\ ”, “\ |STYLE246|\ \ |STYLE247|\ \ |STYLE248|\ \ |STYLE249|\ \ |STYLE250|\ \ |STYLE251|\  crea una nuova Proposta di Delibera:
+4.1 Stato: Start 
+=================
 
-* dal menu a tendina “\ |STYLE252|\ ” seleziona “\ |STYLE253|\ ”;
+\ |STYLE243|\ 
 
-* Inserisce l’\ |STYLE254|\  dell’Atto;
+Il profilo con ruolo “\ |STYLE244|\ ”, “\ |STYLE245|\ \ |STYLE246|\ \ |STYLE247|\ \ |STYLE248|\ \ |STYLE249|\ \ |STYLE250|\  crea una nuova Proposta di Delibera:
+
+* dal menu a tendina “\ |STYLE251|\ ” seleziona “\ |STYLE252|\ ”;
+
+* Inserisce l’\ |STYLE253|\  dell’Atto;
 
 * Inserisce le informazioni necessarie all’eventuale successiva pubblicazione all’albo pretorio (es. oggetto ridotto, …);
 
-* Inserisce eventuali \ |STYLE255|\ ;
+* Inserisce eventuali \ |STYLE254|\ ;
 
-* \ |STYLE256|\  per procedere allo stato successivo.
+* \ |STYLE255|\  per procedere allo stato successivo.
 
 Durante il processo di salvataggio viene verificato che siano stati compilati i campi obbligatori e al documento viene attribuito automaticamente un numero, immodificabile e univoco per tutta l’Amministrazione, che identificherà l’atto e tutti i documenti che ad esso si riferiscono (allegati, pareri, etc…).
 
@@ -587,36 +672,39 @@ Nel processo di creazione viene inoltre generata la copertina dell’atto che, s
 
 .. admonition:: Azioni
 
-    \ |STYLE257|\ 
+    \ |STYLE256|\ 
 
 |
 
-    #. Stato: Definizione
+.. _h3c267f5c7d31727959564781e764:
 
-\ |STYLE258|\ 
+4.2 Stato: Definizione
+======================
 
-In questa fase il “\ |STYLE259|\ ”, “\ |STYLE260|\ \ |STYLE261|\ \ |STYLE262|\ \ |STYLE263|\ \ |STYLE264|\ \ |STYLE265|\   ha il compito di inserire il testo del documento ed eventuali allegati.
+\ |STYLE257|\ 
+
+In questa fase il “\ |STYLE258|\ ”, “\ |STYLE259|\ \ |STYLE260|\ \ |STYLE261|\ \ |STYLE262|\ \ |STYLE263|\ \ |STYLE264|\   ha il compito di inserire il testo del documento ed eventuali allegati.
 
 Può ancora modificare i campi:
 
-* \ |STYLE266|\  della Proposta;
+* \ |STYLE265|\  della Proposta;
 
-* \ |STYLE267|\ \ |STYLE268|\  che va a sostituire quella eventualmente inserita nello step precedente. 
+* \ |STYLE266|\ \ |STYLE267|\  che va a sostituire quella eventualmente inserita nello step precedente. 
 
 Il processo di redazione del documento contenente il testo della parte narrativa della Proposta di Delibera, che può coinvolgere soggetti diversi dal Responsabile del Procedimento, dal Dirigente del Servizio, dall’Assessore o dal Sindaco, avverrà al di fuori della piattaforma.
 
-E’ opportuno che il testo del documento venga predisposto utilizzando i modelli di riferimento, che saranno disponibili sulla piattaforma WebRainbow e scaricabili attraverso la voce “\ |STYLE269|\ ” o attraverso l’azione “\ |STYLE270|\ ”.
+E’ opportuno che il testo del documento venga predisposto utilizzando i modelli di riferimento, che saranno disponibili sulla piattaforma WebRainbow e scaricabili attraverso la voce “\ |STYLE268|\ ” o attraverso l’azione “\ |STYLE269|\ ”.
 
-Il testo del documento, redatto in ogni sua parte a meno della copertina, che è già stata predisposta dalla procedura stessa, sarà inserito accedendo alla pagina \ |STYLE271|\ \ |STYLE272|\ \ |STYLE273|\  in corrispondenza della riga \ |STYLE274|\ \ |STYLE275|\ \ |STYLE276|\ 
+Il testo del documento, redatto in ogni sua parte a meno della copertina, che è già stata predisposta dalla procedura stessa, sarà inserito accedendo alla pagina \ |STYLE270|\ \ |STYLE271|\ \ |STYLE272|\  in corrispondenza della riga \ |STYLE273|\ \ |STYLE274|\ \ |STYLE275|\ 
 
-Allo stesso modo l’Utente ha la possibilità di inserire ulteriori documenti nella sezione \ |STYLE277|\ \ |STYLE278|\ \ |STYLE279|\  tra cui, contrassegnati da un opportuno flag, quelli necessari alla successiva pubblicazione all’Albo pretorio (documenti in versione oscurata, abstract, etc.)\ |STYLE280|\ 
+Allo stesso modo l’Utente ha la possibilità di inserire ulteriori documenti nella sezione \ |STYLE276|\ \ |STYLE277|\ \ |STYLE278|\  tra cui, contrassegnati da un opportuno flag, quelli necessari alla successiva pubblicazione all’Albo pretorio (documenti in versione oscurata, abstract, etc.)\ |STYLE279|\ 
 
 
 .. admonition:: Azioni
 
-    \ |STYLE281|\ 
+    \ |STYLE280|\ 
 
-Poiché per gli atti di mero indirizzo non devono essere resi i Pareri di Regolarità tecnica e contabile, l’azione “\ |STYLE282|\ ” porta l’atto direttamente nello stato “\ |STYLE283|\ ”.
+Poiché per gli atti di mero indirizzo non devono essere resi i Pareri di Regolarità tecnica e contabile, l’azione “\ |STYLE281|\ ” porta l’atto direttamente nello stato “\ |STYLE282|\ ”.
 
 
 .. bottom of content
@@ -820,372 +908,370 @@ Poiché per gli atti di mero indirizzo non devono essere resi i Pareri di Regola
 
 .. |STYLE98| replace:: *”.*
 
-.. |STYLE99| replace:: *|*
+.. |STYLE99| replace:: **Favorevole**
 
-.. |STYLE100| replace:: **Favorevole**
+.. |STYLE100| replace:: **Contrario**
 
-.. |STYLE101| replace:: **Contrario**
+.. |STYLE101| replace:: **Non Dovuto**
 
-.. |STYLE102| replace:: **Non Dovuto**
+.. |STYLE102| replace:: **Ruolo: Istruttore di Ragioneria**
 
-.. |STYLE103| replace:: **Ruolo: Istruttore di Ragioneria**
+.. |STYLE103| replace:: **Salva, Assegna al Servizio, Invia al Ragioniere Generale**
 
-.. |STYLE104| replace:: **Salva, Assegna al Servizio, Invia al Ragioniere Generale**
+.. |STYLE104| replace:: **Assegna al Servizio**
 
-.. |STYLE105| replace:: **Assegna al Servizio**
+.. |STYLE105| replace:: **Servizio di Ragioneria**
 
-.. |STYLE106| replace:: **Servizio di Ragioneria**
+.. |STYLE106| replace:: *“*
 
-.. |STYLE107| replace:: *“*
+.. |STYLE107| replace:: **Attenzione: indicare il Servizio a cui assegnare la Proposta**
 
-.. |STYLE108| replace:: **Attenzione: indicare il Servizio a cui assegnare la Proposta**
+.. |STYLE108| replace:: *”.*
 
-.. |STYLE109| replace:: *”.*
+.. |STYLE109| replace:: **Ruolo: Dirigente di Ragioneria**
 
-.. |STYLE110| replace:: **Ruolo: Dirigente di Ragioneria**
+.. |STYLE110| replace:: *Istruttoria di Ragioneria*
 
-.. |STYLE111| replace:: *Istruttoria di Ragioneria*
+.. |STYLE111| replace:: **Ragioneria Generale - Motivazioni Richiesta di Integrazione Istruttoria**
 
-.. |STYLE112| replace:: **Ragioneria Generale - Motivazioni Richiesta di Integrazione Istruttoria**
+.. |STYLE112| replace:: **Richiesta Integrazione**
 
-.. |STYLE113| replace:: **Richiesta Integrazione**
+.. |STYLE113| replace:: **Documenti contabili Istruttoria Ragioneria**
 
-.. |STYLE114| replace:: **Documenti contabili Istruttoria Ragioneria**
+.. |STYLE114| replace:: **Allegati interni Ragioneria**
 
-.. |STYLE115| replace:: **Allegati interni Ragioneria**
+.. |STYLE115| replace:: **Salva, Rimanda all’Istruttore, Assegna al funzionario, Assegna al Servizio,  Richiesta Integrazione**
 
-.. |STYLE116| replace:: **Salva, Rimanda all’Istruttore, Assegna al funzionario, Assegna al Servizio,  Richiesta Integrazione**
+.. |STYLE116| replace:: *L’azione “*
 
-.. |STYLE117| replace:: *L’azione “*
+.. |STYLE117| replace:: **Rimanda all’Istruttore**
 
-.. |STYLE118| replace:: **Rimanda all’Istruttore**
+.. |STYLE118| replace:: *” invia la proposta al ruolo Istruttore di Ragioneria, nello stato “*
 
-.. |STYLE119| replace:: *” invia la proposta al ruolo Istruttore di Ragioneria, nello stato “*
+.. |STYLE119| replace:: **Assegnazione Proposta**
 
-.. |STYLE120| replace:: **Assegnazione Proposta**
+.. |STYLE120| replace:: *”, per l’eventuale riassegnazione ad un altro Servizio o per il successivo esame da parte del Ragioniere Generale.*
 
-.. |STYLE121| replace:: *”, per l’eventuale riassegnazione ad un altro Servizio o per il successivo esame da parte del Ragioniere Generale.*
+.. |STYLE121| replace:: *L’azione “*
 
-.. |STYLE122| replace:: *L’azione “*
+.. |STYLE122| replace:: **Assegna al Funzionario**
 
-.. |STYLE123| replace:: **Assegna al Funzionario**
+.. |STYLE123| replace:: *” invia la proposta al ruolo Responsabile di Ragioneria, nello stato “*
 
-.. |STYLE124| replace:: *” invia la proposta al ruolo Responsabile di Ragioneria, nello stato “*
+.. |STYLE124| replace:: **Istruttoria Funzionario di Ragioneria**
 
-.. |STYLE125| replace:: **Istruttoria Funzionario di Ragioneria**
+.. |STYLE125| replace:: *”; attiva un controllo sul campo “*
 
-.. |STYLE126| replace:: *”; attiva un controllo sul campo “*
+.. |STYLE126| replace:: **Responsabile di Ragioneria**
 
-.. |STYLE127| replace:: **Responsabile di Ragioneria**
+.. |STYLE127| replace:: *” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: “*
 
-.. |STYLE128| replace:: *” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: “*
+.. |STYLE128| replace:: **Attenzione: indicare il Responsabile di Ragioneria a cui assegnare la Proposta**
 
-.. |STYLE129| replace:: **Attenzione: indicare il Responsabile di Ragioneria a cui assegnare la Proposta**
+.. |STYLE129| replace:: *”.*
 
-.. |STYLE130| replace:: *”.*
+.. |STYLE130| replace:: *L’azione “*
 
-.. |STYLE131| replace:: *L’azione “*
+.. |STYLE131| replace:: **Assegna al Servizio**
 
-.. |STYLE132| replace:: **Assegna al Servizio**
+.. |STYLE132| replace:: *” invia la proposta al ruolo Dirigente di Ragioneria del Servizio selezionato, nello stato “*
 
-.. |STYLE133| replace:: *” invia la proposta al ruolo Dirigente di Ragioneria del Servizio selezionato, nello stato “*
+.. |STYLE133| replace:: **Istruttoria Dirigente di Ragioneria**
 
-.. |STYLE134| replace:: **Istruttoria Dirigente di Ragioneria**
+.. |STYLE134| replace:: *”; attiva un controllo sul campo “*
 
-.. |STYLE135| replace:: *”; attiva un controllo sul campo “*
+.. |STYLE135| replace:: **Servizio di Ragioneria**
 
-.. |STYLE136| replace:: **Servizio di Ragioneria**
+.. |STYLE136| replace:: *” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: “*
 
-.. |STYLE137| replace:: *” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore: “*
+.. |STYLE137| replace:: **Attenzione: indicare il Servizio a cui assegnare la Proposta**
 
-.. |STYLE138| replace:: **Attenzione: indicare il Servizio a cui assegnare la Proposta**
+.. |STYLE138| replace:: *”.*
 
-.. |STYLE139| replace:: *”.*
+.. |STYLE139| replace:: *L’azione “*
 
-.. |STYLE140| replace:: *L’azione “*
+.. |STYLE140| replace:: **Richiesta Integrazione**
 
-.. |STYLE141| replace:: **Richiesta Integrazione**
+.. |STYLE141| replace:: *” lascia la Proposta nello stato in cui è; contestualmente invia una richiesta di integrazione al Dirigente Proponente. Attiva inoltre un controllo sul campo “*
 
-.. |STYLE142| replace:: *” lascia la Proposta nello stato in cui è; contestualmente invia una richiesta di integrazione al Dirigente Proponente. Attiva inoltre un controllo sul campo “*
+.. |STYLE142| replace:: **Ragioneria Generale**
 
-.. |STYLE143| replace:: **Ragioneria Generale**
+.. |STYLE143| replace:: **- Motivazioni Richiesta di Integrazione Istruttoria**
 
-.. |STYLE144| replace:: **- Motivazioni Richiesta di Integrazione Istruttoria**
+.. |STYLE144| replace:: *” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore:*
 
-.. |STYLE145| replace:: *” e, qualora non sia valorizzato, la piattaforma mostra il messaggio di errore:*
+.. |STYLE145| replace:: *“*
 
-.. |STYLE146| replace:: *“*
+.. |STYLE146| replace:: **Attenzione: indicare le Motivazioni della Richiesta di Integrazione Istruttoria**
 
-.. |STYLE147| replace:: **Attenzione: indicare le Motivazioni della Richiesta di Integrazione Istruttoria**
+.. |STYLE147| replace:: *”.*
 
-.. |STYLE148| replace:: *”.*
+.. |STYLE148| replace:: **Ruolo: Responsabile di Ragioneria**
 
-.. |STYLE149| replace:: **Ruolo: Responsabile di Ragioneria**
+.. |STYLE149| replace:: *Istruttoria di Ragioneria*
 
-.. |STYLE150| replace:: *Istruttoria di Ragioneria*
+.. |STYLE150| replace:: **Ragioneria Generale - Motivazioni Richiesta di Integrazione Istruttoria**
 
-.. |STYLE151| replace:: **Ragioneria Generale - Motivazioni Richiesta di Integrazione Istruttoria**
+.. |STYLE151| replace:: **Documenti contabili Istruttoria Ragioneria**
 
-.. |STYLE152| replace:: **Documenti contabili Istruttoria Ragioneria**
+.. |STYLE152| replace:: **Allegati interni Ragioneria**
 
-.. |STYLE153| replace:: **Allegati interni Ragioneria**
+.. |STYLE153| replace:: **Salva, Rimanda al Dirigente**
 
-.. |STYLE154| replace:: **Salva, Rimanda al Dirigente**
+.. |STYLE154| replace:: **Rimanda al Dirigente**
 
-.. |STYLE155| replace:: **Rimanda al Dirigente**
+.. |STYLE155| replace:: **Ruolo: Ragioniere Generale**
 
-.. |STYLE156| replace:: **Ruolo: Ragioniere Generale**
+.. |STYLE156| replace:: *Ragioniere Generale*
 
-.. |STYLE157| replace:: *Ragioniere Generale*
+.. |STYLE157| replace:: **Favorevole**
 
-.. |STYLE158| replace:: **Favorevole**
+.. |STYLE158| replace:: **Contrario**
 
-.. |STYLE159| replace:: **Contrario**
+.. |STYLE159| replace:: **Non Dovuto**
 
-.. |STYLE160| replace:: **Non Dovuto**
+.. |STYLE160| replace:: **Motivazioni**
 
 .. |STYLE161| replace:: **Motivazioni**
 
-.. |STYLE162| replace:: **Motivazioni**
+.. |STYLE162| replace:: **Documento Parere Contabile**
 
-.. |STYLE163| replace:: **Documento Parere Contabile**
+.. |STYLE163| replace:: *“Il Dirigente responsabile di Ragioneria esprime, ai sensi e per gli effetti dell’art. 53 L. 142/90 recepita con L.R. n. 48/91 e ss.mm.ii e art. 4 comma 4 del “Regolamento Unico dei Controlli interni” approvato con Deliberazione di C.C. n. 4/2017,*
 
-.. |STYLE164| replace:: *“Il Dirigente responsabile di Ragioneria esprime, ai sensi e per gli effetti dell’art. 53 L. 142/90 recepita con L.R. n. 48/91 e ss.mm.ii e art. 4 comma 4 del “Regolamento Unico dei Controlli interni” approvato con Deliberazione di C.C. n. 4/2017,*
+.. |STYLE164| replace:: **parere favorevole**
 
-.. |STYLE165| replace:: **parere favorevole**
+.. |STYLE165| replace:: *in ordine alla regolarità contabile della proposta di deliberazione in oggetto.”*
 
-.. |STYLE166| replace:: *in ordine alla regolarità contabile della proposta di deliberazione in oggetto.”*
+.. |STYLE166| replace:: *“Il Dirigente responsabile di Ragioneria esprime, ai sensi e per gli effetti dell’art. 53 L. 142/90 recepita con L.R. n. 48/91 e ss.mm.ii e art. 4 comma 4 del “Regolamento Unico dei Controlli interni” approvato con Deliberazione di C.C. n. 4/2017,*
 
-.. |STYLE167| replace:: *“Il Dirigente responsabile di Ragioneria esprime, ai sensi e per gli effetti dell’art. 53 L. 142/90 recepita con L.R. n. 48/91 e ss.mm.ii e art. 4 comma 4 del “Regolamento Unico dei Controlli interni” approvato con Deliberazione di C.C. n. 4/2017,*
+.. |STYLE167| replace:: **parere contrario**
 
-.. |STYLE168| replace:: **parere contrario**
+.. |STYLE168| replace:: *in ordine alla regolarità contabile della proposta di deliberazione in oggetto per le motivazioni riportate di seguito.”*
 
-.. |STYLE169| replace:: *in ordine alla regolarità contabile della proposta di deliberazione in oggetto per le motivazioni riportate di seguito.”*
+.. |STYLE169| replace:: *“Il Dirigente responsabile di Ragioneria esprime, ai sensi e per gli effetti dell’art. 53 L. 142/90 recepita con L.R. n. 48/91 e ss.mm.ii e art. 4 comma 4 del “Regolamento Unico dei Controlli interni” approvato con Deliberazione di C.C. n. 4/2017,*
 
-.. |STYLE170| replace:: *“Il Dirigente responsabile di Ragioneria esprime, ai sensi e per gli effetti dell’art. 53 L. 142/90 recepita con L.R. n. 48/91 e ss.mm.ii e art. 4 comma 4 del “Regolamento Unico dei Controlli interni” approvato con Deliberazione di C.C. n. 4/2017,*
+.. |STYLE170| replace:: **parere non dovuto**
 
-.. |STYLE171| replace:: **parere non dovuto**
+.. |STYLE171| replace:: *in ordine alla regolarità contabile della proposta di deliberazione in oggetto.”*
 
-.. |STYLE172| replace:: *in ordine alla regolarità contabile della proposta di deliberazione in oggetto.”*
+.. |STYLE172| replace:: **per le motivazioni riportate di seguito:**
 
-.. |STYLE173| replace:: **per le motivazioni riportate di seguito:**
+.. |STYLE173| replace:: **Salva, Favorevole, Contrario, Non Dovuto, Assegna al Servizio, Restituisci**
 
-.. |STYLE174| replace:: **Salva, Favorevole, Contrario, Non Dovuto, Assegna al Servizio, Restituisci**
+.. |STYLE174| replace:: **Favorevole**
 
-.. |STYLE175| replace:: **Favorevole**
+.. |STYLE175| replace:: **Contrario**
 
-.. |STYLE176| replace:: **Contrario**
+.. |STYLE176| replace:: **Non Dovuto**
 
-.. |STYLE177| replace:: **Non Dovuto**
+.. |STYLE177| replace:: **Favorevole**
 
-.. |STYLE178| replace:: **Favorevole**
+.. |STYLE178| replace:: **Non Dovuto**
 
-.. |STYLE179| replace:: **Non Dovuto**
+.. |STYLE179| replace:: *“*
 
-.. |STYLE180| replace:: *“*
+.. |STYLE180| replace:: **Non è stato compilato il campo Motivazioni**
 
-.. |STYLE181| replace:: **Non è stato compilato il campo Motivazioni**
+.. |STYLE181| replace:: *”*
 
-.. |STYLE182| replace:: *”*
+.. |STYLE182| replace:: **Contrario**
 
-.. |STYLE183| replace:: **Contrario**
+.. |STYLE183| replace:: *“*
 
-.. |STYLE184| replace:: *“*
+.. |STYLE184| replace:: **Attenzione: Non è stato compilato il campo Motivazioni**
 
-.. |STYLE185| replace:: **Attenzione: Non è stato compilato il campo Motivazioni**
+.. |STYLE185| replace:: *”*
 
-.. |STYLE186| replace:: *”*
+.. |STYLE186| replace:: **Assegna al Servizio**
 
-.. |STYLE187| replace:: **Assegna al Servizio**
+.. |STYLE187| replace:: **Servizio di Ragioneria**
 
-.. |STYLE188| replace:: **Servizio di Ragioneria**
+.. |STYLE188| replace:: **Attenzione: indicare il Servizio a cui assegnare la Proposta**
 
-.. |STYLE189| replace:: **Attenzione: indicare il Servizio a cui assegnare la Proposta**
+.. |STYLE189| replace:: *”.*
 
-.. |STYLE190| replace:: *”.*
+.. |STYLE190| replace:: **Restituisci**
 
-.. |STYLE191| replace:: **Restituisci**
+.. |STYLE191| replace:: *“*
 
-.. |STYLE192| replace:: *“*
+.. |STYLE192| replace:: **Attenzione: Non è stato compilato il campo Motivazioni**
 
-.. |STYLE193| replace:: **Attenzione: Non è stato compilato il campo Motivazioni**
+.. |STYLE193| replace:: *”*
 
-.. |STYLE194| replace:: *”*
+.. |STYLE194| replace:: **Ruolo: Dirigente di Servizio**
 
-.. |STYLE195| replace:: **Ruolo: Dirigente di Servizio**
+.. |STYLE195| replace:: **Integrazione Istruttoria / Controdeduzioni**
 
-.. |STYLE196| replace:: **Integrazione Istruttoria / Controdeduzioni**
+.. |STYLE196| replace:: *“*
 
-.. |STYLE197| replace:: *“*
+.. |STYLE197| replace:: **Invia integrazione / controdeduzioni**
 
-.. |STYLE198| replace:: **Invia integrazione / controdeduzioni**
+.. |STYLE198| replace:: *”*
 
-.. |STYLE199| replace:: *”*
+.. |STYLE199| replace:: *“*
 
-.. |STYLE200| replace:: *“*
+.. |STYLE200| replace:: **Ignora**
 
-.. |STYLE201| replace:: **Ignora**
+.. |STYLE201| replace:: *”*
 
-.. |STYLE202| replace:: *”*
+.. |STYLE202| replace:: **Salva, Invia integrazione / controdeduzioni, Ignora**
 
-.. |STYLE203| replace:: **Salva, Invia integrazione / controdeduzioni, Ignora**
+.. |STYLE203| replace:: **Ruolo: Funzionario Atti Deliberativi**
 
-.. |STYLE204| replace:: **Ruolo: Funzionario Atti Deliberativi**
+.. |STYLE204| replace:: **Allegati**
 
-.. |STYLE205| replace:: **Allegati**
+.. |STYLE205| replace:: **Allegati interni alla Segreteria Generale**
 
-.. |STYLE206| replace:: **Allegati interni alla Segreteria Generale**
+.. |STYLE206| replace:: **Segreteria - Motivazioni Richiesta di Integrazione Istruttoria**
 
-.. |STYLE207| replace:: **Segreteria - Motivazioni Richiesta di Integrazione Istruttoria**
+.. |STYLE207| replace:: **Iscrivibile (SI/NO)**
 
-.. |STYLE208| replace:: **Iscrivibile (SI/NO)**
+.. |STYLE208| replace:: **Salva, Avanza**
 
-.. |STYLE209| replace:: **Salva, Avanza**
+.. |STYLE209| replace:: **Ruolo: Segretario Generale**
 
-.. |STYLE210| replace:: **Ruolo: Segretario Generale**
+.. |STYLE210| replace:: **Entro le 48 h**
 
-.. |STYLE211| replace:: **Entro le 48 h**
+.. |STYLE211| replace:: **Oltre le 48 h**
 
-.. |STYLE212| replace:: **Oltre le 48 h**
+.. |STYLE212| replace:: **In sede di Giunta**
 
-.. |STYLE213| replace:: **In sede di Giunta**
+.. |STYLE213| replace:: **Osservazioni arrivo Proposta**
 
-.. |STYLE214| replace:: **Osservazioni arrivo Proposta**
+.. |STYLE214| replace:: **Segreteria - Motivazioni della Richiesta di Integrazione**
 
-.. |STYLE215| replace:: **Segreteria - Motivazioni della Richiesta di Integrazione**
+.. |STYLE215| replace:: **Richiesta Integrazione**
 
-.. |STYLE216| replace:: **Richiesta Integrazione**
+.. |STYLE216| replace:: **Avanza in Giunta**
 
-.. |STYLE217| replace:: **Avanza in Giunta**
+.. |STYLE217| replace:: **Motivi del rigetto**
 
-.. |STYLE218| replace:: **Motivi del rigetto**
+.. |STYLE218| replace:: **Rigetta**
 
-.. |STYLE219| replace:: **Rigetta**
+.. |STYLE219| replace:: **Salva, Avanza in Giunta, Richiesta Integrazione, Rigetta, Rimanda al Funzionario**
 
-.. |STYLE220| replace:: **Salva, Avanza in Giunta, Richiesta Integrazione, Rigetta, Rimanda al Funzionario**
+.. |STYLE220| replace:: **Richiesta Integrazione**
 
-.. |STYLE221| replace:: **Richiesta Integrazione**
+.. |STYLE221| replace:: **Segreteria - Motivazioni della Richiesta di Integrazione Istruttoria**
 
-.. |STYLE222| replace:: **Segreteria - Motivazioni della Richiesta di Integrazione Istruttoria**
+.. |STYLE222| replace:: *“*
 
-.. |STYLE223| replace:: *“*
+.. |STYLE223| replace:: **Attenzione: indicare le Motivazioni della Richiesta di Integrazione Istruttoria**
 
-.. |STYLE224| replace:: **Attenzione: indicare le Motivazioni della Richiesta di Integrazione Istruttoria**
+.. |STYLE224| replace:: *”.*
 
-.. |STYLE225| replace:: *”.*
+.. |STYLE225| replace:: **Rigetta**
 
-.. |STYLE226| replace:: **Rigetta**
+.. |STYLE226| replace:: **Motivi del rigetto**
 
-.. |STYLE227| replace:: **Motivi del rigetto**
+.. |STYLE227| replace:: *“*
 
-.. |STYLE228| replace:: *“*
+.. |STYLE228| replace:: **Attenzione: indicare i Motivi del rigetto**
 
-.. |STYLE229| replace:: **Attenzione: indicare i Motivi del rigetto**
+.. |STYLE229| replace:: *”.*
 
-.. |STYLE230| replace:: *”.*
+.. |STYLE230| replace:: **Ruolo: Funzionario Atti Deliberativi**
 
-.. |STYLE231| replace:: **Ruolo: Funzionario Atti Deliberativi**
+.. |STYLE231| replace:: **Salva, Crea OdG**
 
-.. |STYLE232| replace:: **Salva, Crea OdG**
+.. |STYLE232| replace:: **Ruolo: Segretario Generale**
 
-.. |STYLE233| replace:: **Ruolo: Segretario Generale**
+.. |STYLE233| replace:: **Torna in Segreteria, Salva, Respingi, Sospendi, Approva**
 
-.. |STYLE234| replace:: **Torna in Segreteria, Salva, Respingi, Sospendi, Approva**
+.. |STYLE234| replace:: **Torna in Segreteria**
 
-.. |STYLE235| replace:: **Torna in Segreteria**
+.. |STYLE235| replace:: **Ruolo: Presidente di Giunta**
 
-.. |STYLE236| replace:: **Ruolo: Presidente di Giunta**
+.. |STYLE236| replace:: **Torna in Giunta, Firma**
 
-.. |STYLE237| replace:: **Torna in Giunta, Firma**
+.. |STYLE237| replace:: **Ruolo: Segretario Generale**
 
-.. |STYLE238| replace:: **Ruolo: Segretario Generale**
+.. |STYLE238| replace:: **Firma**
 
-.. |STYLE239| replace:: **Firma**
+.. |STYLE239| replace:: **Ruolo: Assessore**
 
-.. |STYLE240| replace:: **Ruolo: Assessore**
+.. |STYLE240| replace:: **Firma**
 
-.. |STYLE241| replace:: **Firma**
+.. |STYLE241| replace:: **Ruolo: Segretario Generale**
 
-.. |STYLE242| replace:: **Ruolo: Segretario Generale**
+.. |STYLE242| replace:: **Pubblica**
 
-.. |STYLE243| replace:: **Pubblica**
+.. |STYLE243| replace:: **Ruolo: Responsabile del Procedimento, Dirigente del Servizio, Assessore, Sindaco**
 
-.. |STYLE244| replace:: **Ruolo: Responsabile del Procedimento, Dirigente del Servizio, Assessore, Sindaco**
+.. |STYLE244| replace:: **Responsabile di Procedimento**
 
-.. |STYLE245| replace:: **Responsabile di Procedimento**
+.. |STYLE245| replace:: **Dirigente del Servizio**
 
-.. |STYLE246| replace:: **Dirigente del Servizio**
+.. |STYLE246| replace:: *”, “*
 
-.. |STYLE247| replace:: *”, “*
+.. |STYLE247| replace:: **Assessore**
 
-.. |STYLE248| replace:: **Assessore**
+.. |STYLE248| replace:: *”, “*
 
-.. |STYLE249| replace:: *”, “*
+.. |STYLE249| replace:: **Sindaco**
 
-.. |STYLE250| replace:: **Sindaco**
+.. |STYLE250| replace:: *”*
 
-.. |STYLE251| replace:: *”*
+.. |STYLE251| replace:: **Delibera di Giunta**
 
-.. |STYLE252| replace:: **Delibera di Giunta**
+.. |STYLE252| replace:: **Crea Atto di mero indirizzo**
 
-.. |STYLE253| replace:: **Crea Atto di mero indirizzo**
+.. |STYLE253| replace:: **Oggetto**
 
-.. |STYLE254| replace:: **Oggetto**
+.. |STYLE254| replace:: **Note**
 
-.. |STYLE255| replace:: **Note**
+.. |STYLE255| replace:: **Salva**
 
 .. |STYLE256| replace:: **Salva**
 
-.. |STYLE257| replace:: **Salva**
+.. |STYLE257| replace:: **Ruolo: Responsabile del procedimento, Dirigente del Servizio, Assessore, Sindaco**
 
-.. |STYLE258| replace:: **Ruolo: Responsabile del procedimento, Dirigente del Servizio, Assessore, Sindaco**
+.. |STYLE258| replace:: **Responsabile di Procedimento**
 
-.. |STYLE259| replace:: **Responsabile di Procedimento**
+.. |STYLE259| replace:: **Dirigente del Servizio**
 
-.. |STYLE260| replace:: **Dirigente del Servizio**
+.. |STYLE260| replace:: *”, “*
 
-.. |STYLE261| replace:: *”, “*
+.. |STYLE261| replace:: **Assessore**
 
-.. |STYLE262| replace:: **Assessore**
+.. |STYLE262| replace:: *”, “*
 
-.. |STYLE263| replace:: *”, “*
+.. |STYLE263| replace:: **Sindaco**
 
-.. |STYLE264| replace:: **Sindaco**
+.. |STYLE264| replace:: *”*
 
-.. |STYLE265| replace:: *”*
+.. |STYLE265| replace:: **Oggetto**
 
-.. |STYLE266| replace:: **Oggetto**
+.. |STYLE266| replace:: **Nota**
 
-.. |STYLE267| replace:: **Nota**
+.. |STYLE267| replace:: *,*
 
-.. |STYLE268| replace:: *,*
+.. |STYLE268| replace:: **Gestisci Modelli**
 
-.. |STYLE269| replace:: **Gestisci Modelli**
+.. |STYLE269| replace:: **Ricerca Modelli**
 
-.. |STYLE270| replace:: **Ricerca Modelli**
+.. |STYLE270| replace:: *“*
 
-.. |STYLE271| replace:: *“*
+.. |STYLE271| replace:: **Documenti**
 
-.. |STYLE272| replace:: **Documenti**
+.. |STYLE272| replace:: *”,*
 
-.. |STYLE273| replace:: *”,*
+.. |STYLE273| replace:: *“*
 
-.. |STYLE274| replace:: *“*
+.. |STYLE274| replace:: **Testo del Documento**
 
-.. |STYLE275| replace:: **Testo del Documento**
+.. |STYLE275| replace:: *”.*
 
-.. |STYLE276| replace:: *”.*
+.. |STYLE276| replace:: *“*
 
-.. |STYLE277| replace:: *“*
+.. |STYLE277| replace:: **Allegati**
 
-.. |STYLE278| replace:: **Allegati**
+.. |STYLE278| replace:: *”,*
 
-.. |STYLE279| replace:: *”,*
+.. |STYLE279| replace:: *.*
 
-.. |STYLE280| replace:: *.*
+.. |STYLE280| replace:: **Salva, Avanza**
 
-.. |STYLE281| replace:: **Salva, Avanza**
+.. |STYLE281| replace:: **Avanza**
 
-.. |STYLE282| replace:: **Avanza**
-
-.. |STYLE283| replace:: **Istruttoria Segreteria Generale**
+.. |STYLE282| replace:: **Istruttoria Segreteria Generale**
