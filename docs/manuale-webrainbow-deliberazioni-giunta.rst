@@ -71,14 +71,14 @@ Di seguito l’elenco dei ruoli che verranno definiti sulla piattaforma WebRainb
 
 |
 
-.. _h5a13107f396a773f73ca2548233965:
+.. _h2a4b275150527716204b79b506f3073:
 
-Flusso Delibere di Giunta 
-**************************
+3 Flusso Delibere di Giunta 
+****************************
 
-.. _h6957681e6dc31e67d224e56714a5:
+.. _h60704d4f4f40205a5f1b732364c2457:
 
-2.2 Stato: Start
+3.1 Stato: Start
 ================
 
 \ |STYLE12|\ 
@@ -108,9 +108,9 @@ Nel processo di creazione viene inoltre generata la copertina dell’atto; se la
 
 |
 
-.. _h5e742062726876803312143576046:
+.. _h7c1644342f2f503f74153511b91d45:
 
-2.3 Stato: Definizione
+3.2 Stato: Definizione
 ======================
 
 \ |STYLE23|\ 
@@ -146,9 +146,9 @@ Allo stesso modo l’Utente ha la possibilità di inserire ulteriori documenti n
 
 |
 
-.. _h36262a84d353864135924334961384a:
+.. _h277d72111738536871615f2f5b163a76:
 
-2.4  Stato: In Parere
+3.3  Stato: In Parere
 =====================
 
 \ |STYLE47|\ 
@@ -168,9 +168,9 @@ Quindi dovrà scrivere una breve “\ |STYLE58|\ ” nell’apposito campo e rim
 
 |
 
-.. _h7a3f75b3e2b20756e2d805c6e391928:
+.. _h127325472541463f16581e6f345b4b49:
 
-2.5 Stato: Parere Regolarità Tecnica
+3.4 Stato: Parere Regolarità Tecnica
 ====================================
 
 \ |STYLE60|\ 
@@ -198,9 +198,9 @@ Contestualmente all’azione Favorevole / Contrario, il Dirigente dovrà sottosc
 
 |
 
-.. _h7c6c36331416577218695c80577c4f51:
+.. _h5b5535870734b6af6b6e3e69175852:
 
-2.6 Stato: Firma Dirigente Sovraordinato
+3.5 Stato: Firma Dirigente Sovraordinato
 ========================================
 
 \ |STYLE67|\ 
@@ -228,9 +228,9 @@ L’azione \ |STYLE77|\  attiva un controllo sul campo “\ |STYLE78|\ ” e, qu
 
 |
 
-.. _h1a1e31261d496c5a2679450603a1c17:
+.. _h10628039515a7430c7c29a72686349:
 
-2.7 Stato: Firma Capo Area
+3.6 Stato: Firma Capo Area
 ==========================
 
 \ |STYLE82|\ 
@@ -252,9 +252,9 @@ Le ultime due azioni attiveranno un controllo sul campo “\ |STYLE86|\ ” e, q
 
 |
 
-.. _h6436e4f3f51c11c7a53874423f1c:
+.. _h2b644b7ee94d3340a34262ec2568:
 
-2.8 Stato: Firma Assessore
+3.7 Stato: Firma Assessore
 ==========================
 
 \ |STYLE90|\ 
@@ -280,10 +280,10 @@ L’azione \ |STYLE94|\  attiva un controllo sul campo “\ |STYLE95|\ ” e, qu
 
 |
 
-.. _h316dcc6f6d2a803a7957597a6a2766:
+.. _hf6c674b77da592a7932406438725:
 
-2.9 Stato: Parere Contabile
-===========================
+3.8  Stato: Parere Contabile
+============================
 
 Ruolo: Istruttore di Ragioneria
 
@@ -293,14 +293,14 @@ La Proposta arriva in Ragioneria e, in funzione delle sue caratteristiche, viene
 
 |
 
-.. _h5f3d132a65694b473e40435b3848602f:
+.. _h3755501f6125373c14b3b47010746c:
 
-3   Delibere di Giunta - Flusso di Ragioneria
-*********************************************
+Delibere di Giunta - Flusso di Ragioneria
+*****************************************
 
-.. _h606b26183e603c644a4f6222461d6c38:
+.. _h6a6a121a2644704161452b443b3a344b:
 
-3.1 Stato: Assegnazione Proposta
+3.9 Stato: Assegnazione Proposta
 ================================
 
 \ |STYLE102|\ 
@@ -320,10 +320,10 @@ L’azione “\ |STYLE104|\ ” attiva un controllo sul campo “\ |STYLE105|\ �
 
 |
 
-.. _h7f215a176a507db1b0b154a243c3b:
+.. _h512836777f5e36c6348237c6d7c505c:
 
-3.2 Stato: Istruttoria Dirigente di Ragioneria
-==============================================
+3.10 Stato: Istruttoria Dirigente di Ragioneria
+===============================================
 
 \ |STYLE109|\ 
 
@@ -356,10 +356,10 @@ Tali allegati possono essere pubblici, andando a far parte del fascicolo general
 
 |
 
-.. _h25397c92f525130533fe2375761f42:
+.. _h4e4f181c202b59301f474212f444c13:
 
-3.3 Stato: Istruttoria Funzionario di Ragioneria
-================================================
+3.11 Stato: Istruttoria Funzionario di Ragioneria
+=================================================
 
 \ |STYLE148|\ 
 
@@ -380,10 +380,10 @@ L’azione “\ |STYLE154|\ ”, invia la Proposta al ruolo Dirigente di Ragione
 
 |
 
-.. _h4973641472451665437b33b511ba3f:
+.. _h6f16b6d2677481f27536b12241f382:
 
-3.4 Stato: Parere Regolarità Contabile
-======================================
+3.12 Stato: Parere Regolarità Contabile
+=======================================
 
 \ |STYLE155|\ 
 
@@ -428,10 +428,10 @@ L’azione “\ |STYLE190|\ ” attiva un controllo sul campo Motivazioni e, qua
 
 |
 
-.. _h6132147867383a73573d774644495f:
+.. _h4f7b2a267c284446e5e473e2747782d:
 
-3.5 Stato: Richiesta integrazioni / controdeduzioni
-===================================================
+3.13 Stato: Richiesta integrazioni / controdeduzioni
+====================================================
 
 \ |STYLE194|\ 
 
@@ -448,10 +448,10 @@ In entrambi i casi, al richiedente arriverà un messaggio di notifica.
 
 |
 
-.. _h463b2516572c10a41771413d28c3f:
+.. _h541c3f3977145f321d3e3b24a40466d:
 
-3.6 Stato: Istruttoria Segreteria Generale
-==========================================
+3.14 Stato: Istruttoria Segreteria Generale
+===========================================
 
 \ |STYLE203|\ 
 
@@ -470,10 +470,10 @@ Il risultato dell’attività istruttoria viene riportato nel campo Note, la Pro
 
 |
 
-.. _h472a754c66517c7362c71241e181a77:
+.. _h051156d55e6b7e5a4e5376d77662e:
 
-3.7 Stato: Definizione istruttoria
-==================================
+3.15 Stato: Definizione istruttoria
+===================================
 
 \ |STYLE209|\ 
 
@@ -514,10 +514,10 @@ L’azione “\ |STYLE225|\ ” attiva un controllo sul campo “\ |STYLE226|\ �
 
 |
 
-.. _h6c4066467b5b97f48354652a85938:
+.. _h79375f6f3571523e295c722c7e287e51:
 
-3.8 Predisposizione Ordine del Giorno
-=====================================
+3.16 Predisposizione Ordine del Giorno
+======================================
 
 \ |STYLE230|\ 
 
@@ -534,10 +534,10 @@ Dovrà poi essere prodotto il documento di convocazione della Giunta contenente 
 
 |
 
-.. _h63d44592e697f1918543d42365d234d:
+.. _h715a6443b2c4c3452c39113cc5b1c:
 
-3.9 Stato: Giunta
-=================
+3.17 Stato: Giunta
+==================
 
 \ |STYLE232|\ 
 
@@ -574,9 +574,9 @@ L’azione “\ |STYLE234|\ ”, riporta la Proposta allo step precedente, nel c
 
 |
 
-.. _h7653686d751f77112f7635f777628:
+.. _h22d1a404f5b5b343b65b6248213a4c:
 
-3.10 Stato: Firma del Sindaco
+3.18 Stato: Firma del Sindaco
 =============================
 
 \ |STYLE235|\ 
@@ -590,9 +590,9 @@ Il ruolo Presidente di Giunta è generalmente rivestito dal Sindaco, ma è rifer
 
 |
 
-.. _h4807c6966876481783cf77704628:
+.. _h34786b2a776d4a646726391322462fd:
 
-3.11 Stato: Firma del Segretario Generale
+3.19 Stato: Firma del Segretario Generale
 =========================================
 
 \ |STYLE237|\ 
@@ -603,9 +603,9 @@ Il ruolo Presidente di Giunta è generalmente rivestito dal Sindaco, ma è rifer
 
 |
 
-.. _h3753532e1a55147a84a40511a726515:
+.. _h54c4939662d6e57244c72782361245c:
 
-3.12 Stato: Firma Assessore Anziano
+3.20 Stato: Firma Assessore Anziano
 ===================================
 
 \ |STYLE239|\ 
@@ -621,9 +621,9 @@ Il ruolo di Assessore anziano è riferito alla singola seduta ed è un ruolo din
 
 |
 
-.. _h96c7a95c47859428597661782e5c:
+.. _h344a18295074425f7f4843541b311a8:
 
-3.13 Stato: Pubblicazione Albo Pretorio
+3.21 Stato: Pubblicazione Albo Pretorio
 =======================================
 
 \ |STYLE241|\  
