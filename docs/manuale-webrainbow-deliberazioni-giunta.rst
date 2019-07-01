@@ -298,6 +298,8 @@ La Proposta arriva in Ragioneria e, in funzione delle sue caratteristiche, viene
 Delibere di Giunta - Flusso di Ragioneria
 *****************************************
 
+|
+
 .. _h6a6a121a2644704161452b443b3a344b:
 
 3.9 Stato: Assegnazione Proposta
