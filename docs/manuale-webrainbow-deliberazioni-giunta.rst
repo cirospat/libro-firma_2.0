@@ -13,7 +13,7 @@ Manuale d’uso dell’applicativo gestionale per le deliberazioni della Giunta 
 
 .. toctree::  
     :maxdepth: 3
-    :caption: deliberazioni Giunta 
+    :caption: Deliberazioni di Giunta 
 
     manuale-webrainbow-deliberazioni-giunta
 
