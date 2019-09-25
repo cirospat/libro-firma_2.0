@@ -17,9 +17,9 @@ L’applicativo gestionale “\ |STYLE0|\ ” è in uso al Comune di Palermo.
 
 Il presente Documento vuole essere una breve guida per l’utente nella prima fase dell’operazione di “passaggio al digitale” del \ |LINK1|\ , illustrando la procedura operativa da seguire per veicolare digitalmente tutti quei documenti indirizzati ad un soggetto privato o ad un Ente pubblico (generalmente “note” o “comunicazioni” formali) mediante l’applicativo informatico denominato “\ |STYLE1|\ ”.
 
-Questa è la versione 2.0  del manuale d’uso e segue la versione 1.0 (rilasciata nel marzo 2018) che è disponibile a questo \ |LINK2|\ .
+Questa è la versione 2.0  del manuale d’uso e segue la versione 1.0 (rilasciata nel marzo 2018 \ |STYLE2|\ ) disponibile a questo \ |LINK2|\ .
 
-La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l’uso della modalità “\ |STYLE3|\ ” (nell’applicativo informatico “MAIA”) che consente all’operatore di prescindere da un'attività di pre-protocollazione (prevista invece nella versione 1.0). 
+La \ |STYLE3|\  consiste nel fatto che nella versione 2.0 è stato contemplato l’uso della modalità “\ |STYLE4|\ ” (nell’applicativo informatico “MAIA”) che consente all’operatore di prescindere da un'attività di pre-protocollazione (prevista invece nella precedente versione 1.0). 
 
 
 .. toctree:: 
@@ -43,17 +43,17 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. admonition:: Metadati del manuale
 
-    * \ |STYLE4|\ : Manuale d’uso della “Procedura Digitale Libro Firma” 
+    * \ |STYLE5|\ : Manuale d’uso della “Procedura Digitale Libro Firma” 
     
-    * \ |STYLE5|\ : 2.0
+    * \ |STYLE6|\ : 2.0
     
-    * \ |STYLE6|\ : 26 giugno 2019
+    * \ |STYLE7|\ : 26 giugno 2019
     
-    * \ |STYLE7|\ : Sergio Schimicci (\ |LINK3|\ )
+    * \ |STYLE8|\ : Sergio Schimicci (\ |LINK3|\ )
     
-    * \ |STYLE8|\ : \ |LINK4|\  a cura di Sergio Schimicci e Ciro Spataro (\ |LINK5|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
+    * \ |STYLE9|\ : \ |LINK4|\  a cura di Sergio Schimicci e Ciro Spataro (\ |LINK5|\ ), U.O. Transizione al Digitale, Servizio Innovazione, Comune di Palermo
     
-    * \ |STYLE9|\  \ |LINK6|\ 
+    * \ |STYLE10|\  \ |LINK6|\ 
 
 
 .. bottom of content
@@ -63,21 +63,23 @@ La \ |STYLE2|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. |STYLE1| replace:: **Libro Firma**
 
-.. |STYLE2| replace:: **differenza tra la versione 1.0 e la 2.0**
+.. |STYLE2| replace:: **che non è più in uso**
 
-.. |STYLE3| replace:: **richiesta avanzata**
+.. |STYLE3| replace:: **differenza tra la versione 1.0 e la 2.0**
 
-.. |STYLE4| replace:: **Titolo del manuale**
+.. |STYLE4| replace:: **richiesta avanzata**
 
-.. |STYLE5| replace:: **Versione del manuale**
+.. |STYLE5| replace:: **Titolo del manuale**
 
-.. |STYLE6| replace:: **Data rilascio versione 2.0 del manuale**
+.. |STYLE6| replace:: **Versione del manuale**
 
-.. |STYLE7| replace:: **Autore del manuale**
+.. |STYLE7| replace:: **Data rilascio versione 2.0 del manuale**
 
-.. |STYLE8| replace:: **Read the Docs del manuale**
+.. |STYLE8| replace:: **Autore del manuale**
 
-.. |STYLE9| replace:: **Licenza adottata per il rilascio del manuale:**
+.. |STYLE9| replace:: **Read the Docs del manuale**
+
+.. |STYLE10| replace:: **Licenza adottata per il rilascio del manuale:**
 
 
 .. |REPLACE1| raw:: html
