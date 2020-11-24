@@ -48,38 +48,38 @@ A questo punto occorrerà cliccare sulla \ |STYLE6|\  per continuare il processo
 
     Nel caso in cui fosse necessario firmare più di un documento cliccare su Fine per esaminare un altro documento da firmare.
 
-Alla fine dell’esame di tutti i documenti da firmare comparirà in alto a sinistra dello schermo un \ |STYLE7|\  che permetterà di convalidare tutti i documenti contemporaneamente con un unico processo di firma ed un unico OTP (che arriverà via sms sul telefono aziendale) 
+\ |STYLE7|\  di tutti i documenti da firmare, comparirà in alto a sinistra dello schermo, all’interno del menu Libro Firma posto accanto alla Home, un \ |STYLE8|\  che permetterà di convalidare tutti i documenti contemporaneamente con un unico processo di firma ed un unico OTP (che arriverà via sms sul telefono aziendale) 
 
 
 |REPLACE7|
 
 |
 
-Occorrerà inserire le proprie \ |STYLE8|\  di firma
+Occorrerà inserire le proprie \ |STYLE9|\  di firma
 
 |REPLACE8|
 
 |
 
-Successivamente bisognerà cliccare su \ |STYLE9|\ 
+Successivamente bisognerà cliccare su \ |STYLE10|\ 
 
 |REPLACE9|
 
 |
 
-Comparirà a questo punto la seguente schermata che richiede l’inserimento del \ |STYLE10|\  e \ |STYLE11|\  (che arriverà via sms sul telefono aziendale)
+Comparirà a questo punto la seguente schermata che richiede l’inserimento del \ |STYLE11|\  e \ |STYLE12|\  (che arriverà via sms sul telefono aziendale)
 
 |REPLACE10|
 
 |
 
-In ultimo bisognerà cliccare su \ |STYLE12|\  per concludere il processo di Firma Digitale
+In ultimo bisognerà cliccare su \ |STYLE13|\  per concludere il processo di Firma Digitale
 
 |REPLACE11|
 
 |
 
-A questo punto tornando sulla Home del programma si vedrà che il documento (o i documenti) firmato risultano avere lo \ |STYLE13|\  evidenziato in colore verde. Il \ |STYLE14|\  sulla destra riepiloga visivamente la \ |STYLE15|\  dei documenti.
+A questo punto tornando sulla Home del programma si vedrà che il documento (o i documenti) firmato risultano avere lo \ |STYLE14|\  evidenziato in colore verde. Il \ |STYLE15|\  sulla destra riepiloga visivamente la \ |STYLE16|\  dei documenti.
 
 |REPLACE12|
 
@@ -88,7 +88,7 @@ A questo punto tornando sulla Home del programma si vedrà che il documento (o i
 
 Una e-mail automatica informerà il richiedente dell’avvenuto completamento della procedura e del numero e data di protocollo, che sarà nel frattempo stato generato automaticamente.
 
-Terminata questa fase, come già detto in premessa, rimarrà l’incombenza di \ |STYLE16|\  il documento al suo destinatario. Per far ciò, dopo aver \ |STYLE17|\ , il richiedente o il soggetto normalmente deputato all’inoltro della corrispondenza potrà accedere \ |STYLE18|\ , ricercare il numero e \ |STYLE19|\  allegati che andranno poi \ |STYLE20|\  al destinatario, \ |STYLE21|\  (qualora il destinatario sia sprovvisto di posta elettronica) apponendo la dicitura “\ |STYLE22|\ .
+Terminata questa fase, come già detto in premessa, rimarrà l’incombenza di \ |STYLE17|\  il documento al suo destinatario. Per far ciò, dopo aver \ |STYLE18|\ , il richiedente o il soggetto normalmente deputato all’inoltro della corrispondenza potrà accedere \ |STYLE19|\ , ricercare il numero e \ |STYLE20|\  allegati che andranno poi \ |STYLE21|\  al destinatario, \ |STYLE22|\  (qualora il destinatario sia sprovvisto di posta elettronica) apponendo la dicitura “\ |STYLE23|\ .
 
 ``Buon lavoro!``
 
@@ -110,37 +110,39 @@ Terminata questa fase, come già detto in premessa, rimarrà l’incombenza di \
 
 .. |STYLE6| replace:: **mano con il pollice in su**
 
-.. |STYLE7| replace:: **pulsante di conferma**
+.. |STYLE7| replace:: **Alla fine dell’esame**
 
-.. |STYLE8| replace:: **credenziali**
+.. |STYLE8| replace:: **pulsante di conferma**
 
-.. |STYLE9| replace:: **Richiedi OTP**
+.. |STYLE9| replace:: **credenziali**
 
-.. |STYLE10| replace:: **PIN**
+.. |STYLE10| replace:: **Richiedi OTP**
 
-.. |STYLE11| replace:: **dell’OTP**
+.. |STYLE11| replace:: **PIN**
 
-.. |STYLE12| replace:: **Continua**
+.. |STYLE12| replace:: **dell’OTP**
 
-.. |STYLE13| replace:: **Stato di Lavorato**
+.. |STYLE13| replace:: **Continua**
 
-.. |STYLE14| replace:: **grafico a torta**
+.. |STYLE14| replace:: **Stato di Lavorato**
 
-.. |STYLE15| replace:: **situazione**
+.. |STYLE15| replace:: **grafico a torta**
 
-.. |STYLE16| replace:: **inviare**
+.. |STYLE16| replace:: **situazione**
 
-.. |STYLE17| replace:: **visualizzato il numero di protocollo**
+.. |STYLE17| replace:: **inviare**
 
-.. |STYLE18| replace:: **all’archivio protocollo**
+.. |STYLE18| replace:: **visualizzato il numero di protocollo**
 
-.. |STYLE19| replace:: **scaricare i file**
+.. |STYLE19| replace:: **all’archivio protocollo**
 
-.. |STYLE20| replace:: **trasmessi via e-mail**
+.. |STYLE20| replace:: **scaricare i file**
 
-.. |STYLE21| replace:: **o in modo cartaceo**
+.. |STYLE21| replace:: **trasmessi via e-mail**
 
-.. |STYLE22| replace:: **copia cartacea conforme all’originale informatico agli atti dell’ufficio”**
+.. |STYLE22| replace:: **o in modo cartaceo**
+
+.. |STYLE23| replace:: **copia cartacea conforme all’originale informatico agli atti dell’ufficio”**
 
 
 .. |REPLACE1| raw:: html
