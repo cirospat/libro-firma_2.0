@@ -57,12 +57,16 @@ Cliccando sul menu a tendina dei \ |STYLE11|\  è possibile \ |STYLE12|\  del do
 
 Sarà sufficiente \ |STYLE14|\  con il mouse verso il \ |STYLE15|\  dello schermo il nome del \ |STYLE16|\  \ |STYLE17|\  e \ |STYLE18|\  per rimuovere il nome del soggetto proprietario del documento. 
 
+Qualora si voglia \ |STYLE19|\ , dopo aver trascinato il primo nominativo sul lato destro dello schermo, sarà indispensabile cliccare sul \ |STYLE20|\  posto poco più in alto, alla fine della prima riga, per aggiungere una seconda riga di firma e \ |STYLE21|\  quindi il \ |STYLE22|\  scegliendolo da quelli disponibili alla sinistra dello schermo.
+
+L’operazione andrà ripetuta per gli altri eventuali firmatari  
+
 
 |REPLACE8|
 
 |
 
-Cliccando sui pulsanti di \ |STYLE19|\  si avrà completato l’operazione. 
+Cliccando sui pulsanti di \ |STYLE23|\  si avrà completato l’operazione. 
 
 
 |REPLACE9|
@@ -74,62 +78,66 @@ Cliccando sui pulsanti di \ |STYLE19|\  si avrà completato l’operazione.
 
 |
 
-La \ |STYLE20|\  \ |STYLE21|\  essere simile alla seguente.
+La \ |STYLE24|\  \ |STYLE25|\  essere simile alla seguente.
 
 
 |REPLACE11|
 
 |
 
-Sarà necessario ora selezionare dal \ |STYLE22|\  
+Sarà necessario ora selezionare dal \ |STYLE26|\ 
 
 ..  Important:: 
 
-    \ |STYLE23|\ 
+    \ |STYLE27|\ 
 
-\ |STYLE24|\ 
+\ |STYLE28|\ 
 
 
 |REPLACE12|
 
 |
 
-Si dovrà poi cliccare su \ |STYLE25|\ . 
+Si dovrà poi cliccare su \ |STYLE29|\ . 
 
 
 |REPLACE13|
 
 |
 
-\ |STYLE26|\  il documento fino ad individuare il \ |STYLE27|\  in cui compare il nome del Dirigente che sarà anche quello dove apporre il rettangolo arancione della firma.
+\ |STYLE30|\  il documento fino ad individuare il \ |STYLE31|\  in cui compare il nome del Dirigente che sarà anche quello dove apporre il rettangolo arancione della firma.
 
 
 |REPLACE14|
 
 |
 
-Cliccare sul \ |STYLE28|\  desiderato per posizionare la firma (e’ opportuno posizionare il mouse circa 2 cm. sotto il nome). Un \ |STYLE29|\  apparirà recando il \ |STYLE30|\  che deve firmare.
+Cliccare sul \ |STYLE32|\  desiderato per posizionare la firma (e’ opportuno posizionare il mouse circa 2 cm. sotto il nome). Un \ |STYLE33|\  apparirà recando il \ |STYLE34|\  che deve firmare.
+
+\ |STYLE35|\ 
 
 
 |REPLACE15|
 
 |
 
-Qualora si sia apposta la firma in una \ |STYLE31|\  sarà sufficiente \ |STYLE32|\  e poi \ |STYLE33|\  arancione nella posizione desiderata.
+Qualora si sia apposta la firma in una \ |STYLE36|\  sarà sufficiente \ |STYLE37|\  e poi \ |STYLE38|\  arancione nella posizione desiderata.
+
+Nel caso in cui si voglia \ |STYLE39|\ , sarà sufficiente cliccare su \ |STYLE40|\ , poi \ |STYLE41|\  e poi premere il \ |STYLE42|\ 
 
 
 |REPLACE16|
 
 |
 
-Per terminare la procedura bisognerà infine cliccare su \ |STYLE34|\ .
+Per terminare la procedura bisognerà infine cliccare su \ |STYLE43|\ .
 
 
 |REPLACE17|
 
-\ |STYLE35|\ 
+\ |STYLE44|\ 
 
-\ |STYLE36|\ 
+\ |STYLE45|\ 
 
 
 .. bottom of content
@@ -173,41 +181,59 @@ Per terminare la procedura bisognerà infine cliccare su \ |STYLE34|\ .
 
 .. |STYLE18| replace:: **cliccare sulla X**
 
-.. |STYLE19| replace:: **conferma**
+.. |STYLE19| replace:: **sottoporre il documento a più di un firmatario**
 
-.. |STYLE20| replace:: **schermata**
+.. |STYLE20| replace:: **tastino +**
 
-.. |STYLE21| replace:: **dovrà**
+.. |STYLE21| replace:: **trascinare**
 
-.. |STYLE22| replace:: **menù a tendina la firma digitale.**
+.. |STYLE22| replace:: **secondo firmatario**
 
-.. |STYLE23| replace:: **Questa operazione è fondamentale qualora si tratti di un solo dirigente a dover firmare l’atto: dimenticando infatti per errore la firma interna, non si otterrà un documento firmato digitalmente.**
+.. |STYLE23| replace:: **conferma**
 
-.. |STYLE24| replace:: **La firma interna potrà essere utilizzata invece ad esempio nel caso in cui vi siano due Dirigenti a firmare l’atto e si voglia che uno dei due apponga quella interna e l’altro la digitale.**
+.. |STYLE24| replace:: **schermata**
 
-.. |STYLE25| replace:: **Posiziona Firma**
+.. |STYLE25| replace:: **dovrà**
 
-.. |STYLE26| replace:: **Scorrere**
+.. |STYLE26| replace:: **menù a tendina la firma digitale, qualora non compaia di default.**
 
-.. |STYLE27| replace:: **punto**
+.. |STYLE27| replace:: **Questa operazione è fondamentale qualora si tratti di un solo dirigente a dover firmare l’atto: dimenticando infatti per errore la firma interna, non si otterrà un documento firmato digitalmente.**
 
-.. |STYLE28| replace:: **punto**
+.. |STYLE28| replace:: **La firma interna potrà essere utilizzata invece ad esempio nel caso in cui vi siano due Dirigenti a firmare l’atto e si voglia che uno dei due apponga quella interna e l’altro la digitale.**
 
-.. |STYLE29| replace:: **rettangolo arancione**
+.. |STYLE29| replace:: **Posiziona Firma**
 
-.. |STYLE30| replace:: **nome del Dirigente**
+.. |STYLE30| replace:: **Scorrere**
 
-.. |STYLE31| replace:: **posizione sbagliata**
+.. |STYLE31| replace:: **punto**
 
-.. |STYLE32| replace:: **cliccare su sposta**
+.. |STYLE32| replace:: **punto**
 
-.. |STYLE33| replace:: **trascinare il rettangolo**
+.. |STYLE33| replace:: **rettangolo arancione**
 
-.. |STYLE34| replace:: **Invia**
+.. |STYLE34| replace:: **nome del Dirigente**
 
-.. |STYLE35| replace:: **Apparirà la frase che il plico è stato inviato con successo.**
+.. |STYLE35| replace:: **L’operazione andrà ripetuta per tutti gli eventuali altri firmatari, scegliendoli dal menu a tendina posto sopra quello in cui è scritto “firma digitale”.**
 
-.. |STYLE36| replace:: **La fase attuale è terminata, ha inizio la terza fase che è di competenza del Dirigente Firmatario.**
+.. |STYLE36| replace:: **posizione sbagliata**
+
+.. |STYLE37| replace:: **cliccare su sposta**
+
+.. |STYLE38| replace:: **trascinare il rettangolo**
+
+.. |STYLE39| replace:: **eliminare il rettangolo di firma apposto per errore**
+
+.. |STYLE40| replace:: **sposta**
+
+.. |STYLE41| replace:: **cliccare sul rettangolo**
+
+.. |STYLE42| replace:: **tasto canc sulla tastiera.**
+
+.. |STYLE43| replace:: **Invia**
+
+.. |STYLE44| replace:: **Apparirà la frase che il plico è stato inviato con successo.**
+
+.. |STYLE45| replace:: **La fase attuale è terminata, ha inizio la terza fase che è di competenza del Dirigente Firmatario.**
 
 
 .. |REPLACE1| raw:: html
