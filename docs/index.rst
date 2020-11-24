@@ -73,7 +73,7 @@ La \ |STYLE3|\  consiste nel fatto che nella versione 2.0 è stato contemplato l
 
 .. |STYLE6| replace:: **Versione del manuale**
 
-.. |STYLE7| replace:: **Data rilascio versione 2.0 del manuale**
+.. |STYLE7| replace:: **Data del primo rilascio versione 2.0 del manuale**
 
 .. |STYLE8| replace:: **Autore del manuale**
 
