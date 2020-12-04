@@ -1,10 +1,6 @@
-# Manuale d’uso della Procedura Digitale Libro Firma, versione 2.0
+# Libro bianco sulle smart city -  versione 2020
 
-## L'applicativo gestionale Libro Firma è in uso al comune di Palermo
-
-[Manuale](https://manuale-libro-firma-2-0.readthedocs.io) a cura di Sergio Schimicci
-
-Redazione progetto su GitHub e Read the Docs a cura di Ciro Spataro
+## A cura di ForumPA
 
 Licenza dei contenuti di questo repository: Creative Commons BY (attribuzione)
 
