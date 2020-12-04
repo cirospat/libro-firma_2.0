@@ -1,7 +1,6 @@
-# Libro bianco sulle smart city -  versione 2020
+# Manuale applicativo Libro Firma
+## A cura di Sergio Schimicci e Ciro Spataro / Servizio Innovazione del Comune di Palermo
 
-## A cura di ForumPA
-
-Licenza dei contenuti di questo repository: Creative Commons BY (attribuzione)
+Licenza dei contenuti di questo repository: Creative Commons BY SA 
 
 
